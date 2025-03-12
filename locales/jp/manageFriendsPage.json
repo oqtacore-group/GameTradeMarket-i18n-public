@@ -1,0 +1,51 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "marketplace": "マーケットプレイス",
+      "manage": "フレンドの管理"
+    },
+    "tabs": {
+      "friends": "友人",
+      "incomingRequests": "受信リクエスト",
+      "outgoingRequests": "発信リクエスト"
+    },
+    "header": {
+      "sendMessage": "メッセージの送信",
+      "request": "友達申請中",
+      "add": "友達に追加",
+      "online": "オンライン"
+    },
+    "tabFriend": {
+      "headlineFriends": "フレンズ",
+      "online": "オンライン",
+      "remove": "削除",
+      "sendMessage": "メッセージの送信",
+      "removeFriends": "このユーザーを友達から外したいですか？",
+      "yes": "はい",
+      "no": "いいえ",
+      "loading": "読み込み中...",
+      "friend": "友",
+      "friends": "人の友人"
+    },
+    "tabIncomingRequests": {
+      "noIncoming": "受信要求がない",
+      "incomingRequests": "受信リクエスト",
+      "request": "乞い願う",
+      "requests": "催促",
+      "online": "オンライン",
+      "addToFriends": "友達に追加",
+      "decline": "減少"
+    },
+    "tabOutgoingRequests": {
+      "noOutgoingRequests": "送信要求がない",
+      "outgoingRequests": "送信要求",
+      "request": "乞い願う",
+      "requests": "催促",
+      "online": "オンライン",
+      "cancel": "キャンセル"
+    }
+  }
+}

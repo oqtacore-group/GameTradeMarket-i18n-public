@@ -1,0 +1,28 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "items": "ゆうぎ",
+    "filter": "フィルター",
+    "game": "ゲーム",
+    "filterGame": "フィルターゲーム",
+    "gamesNotFound": "ノーゲーム",
+    "saleType": "セールタイプ",
+    "priceRange": "価格帯",
+    "apply": "申し込み",
+    "reset": "リセット",
+    "facets": "面子",
+    "noTokensFound": "このゲームにトークンはありません",
+    "search": "検索",
+    "sortBy": "並び",
+    "min": "ミニ",
+    "max": "マックス",
+    "recentlyAdded": "最近追加順",
+    "priceLowToHigh": "価格が安い順",
+    "priceHighToLow": "価格が高い順",
+    "auctionEnding": "オークション終了",
+    "ratingLowToHigh": "評価 低評価から高評価まで",
+    "ratingHighToLow": "評価 高評価から低評価まで"
+  }
+}

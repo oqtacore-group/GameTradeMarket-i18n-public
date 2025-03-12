@@ -1,0 +1,31 @@
+{
+    "language": "english",
+    "i18n": "en",
+    "ns": "base",
+    "translation": {
+        "headline": "Changelog",
+        "label_1": "v. 1.5",
+        "date_1": "03.11.2022",
+        "content_1": {
+            "text_1": "Changelog page created;",
+            "text_2": "Added the ability to purchase in-game currency;",
+            "text_3": "Added the ability to set tokens for in-game currency;",
+            "text_4": "Added the ability to buy items for in-game currency;",
+            "text_5": "Other bug fixes and website speed optimization;"
+        },
+        "label_2": "v. 1.6",
+        "date_2": "8.12.2022",
+        "content_2": {
+            "text_1": "Changed the main page of the site;",
+            "text_2": "Added developer blogs;",
+            "text_3": "SEO optimization;",
+            "text_4": "Other bug fixes and website speed optimization;"
+        },
+        "label_3": "v. 1.7",
+        "date_3": "28.12.2022",
+        "content_3": {
+            "text_1": "WETH to MATIC price converter;",
+            "text_2": "Bug fixes and website speed optimization;"
+        }
+    }
+}

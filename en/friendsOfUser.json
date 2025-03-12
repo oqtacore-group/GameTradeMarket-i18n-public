@@ -1,0 +1,11 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "marketplace": "Marketplace",
+    "friendsOfUser": "Friends of User",
+    "friends": "Friends",
+    "online": "online"
+  }
+}

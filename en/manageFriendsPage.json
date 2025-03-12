@@ -1,0 +1,51 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "marketplace": "Marketplace",
+      "manage": "Manage Friends"
+    },
+    "tabs": {
+      "friends": "Friends",
+      "incomingRequests": "Incoming requests",
+      "outgoingRequests": "Outgoing requests"
+    },
+    "header": {
+      "sendMessage": "Send message",
+      "request": "Friend request pending",
+      "add": "Add to friends",
+      "online": "online"
+    },
+    "tabFriend": {
+      "headlineFriends": "Friends",
+      "online": "online",
+      "remove": "Remove",
+      "sendMessage": "Send message",
+      "removeFriends": "Do you want to remove this user from friends?",
+      "yes": "Yes",
+      "no": "No",
+      "loading": "Loading...",
+      "friend": "friend",
+      "friends": "friends"
+    },
+    "tabIncomingRequests": {
+      "noIncoming": "No incoming requests",
+      "incomingRequests": "Incoming requests",
+      "request": "request",
+      "requests": "requests",
+      "online": "online",
+      "addToFriends": "Add to friends",
+      "decline": "Decline"
+    },
+    "tabOutgoingRequests": {
+      "noOutgoingRequests": "No outgoing requests",
+      "outgoingRequests": "Outgoing requests",
+      "request": "request",
+      "requests": "requests",
+      "online": "online",
+      "cancel": "Cancel"
+    }
+  }
+}

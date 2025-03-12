@@ -1,0 +1,158 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "head": {
+      "description": "Discover, buy, sell and trade in-game NFTs. GameTrade is a specialized and convenient marketplace for trading virtual in-game NFTs."
+    },
+    "menu": {
+      "signIn": "サインイン",
+      "signUp": "サインアップ",
+      "logOut": "ログアウト",
+      "marketplace": "マーケットプレイス",
+      "games": "ゲーム",
+      "eventCalendar": "イベントカレンダー",
+      "roadmap": "ロードマップ",
+      "people": "人",
+      "howItWorks": "その仕組みについて",
+      "changelog": "チェンジログ",
+      "profile": "プロフィール",
+      "friends": "フレンズ",
+      "account": "アカウント",
+      "about": "について",
+      "chat": "チャット",
+      "team": "チーム",
+      "help": "ヘルプ"
+    },
+    "subscribe": {
+      "placeholder": "登録メールアドレス",
+      "button": "サブスクライブ"
+    },
+    "footer": {
+      "joinTheCommunity": "コミュニティに参加してください。",
+      "privacyPolicy": "個人情報保護方針",
+      "termsOfService": "利用規約",
+      "description": "最新機能のリリース、NFTドロップ、GameTradeをナビゲートするためのヒントやコツなどの更新を受取るには、メールサブスクリプションに参加してください。"
+    },
+    "search": {
+      "search": "探索",
+      "searchGame": "検索ゲーム",
+      "notFound": "そんなゲームはない"
+    },
+    "modalWindow": {
+      "logIn": {
+        "headline": "GameTradeにログイン",
+        "google": "Googleでログインする",
+        "or": "または",
+        "mail": "電子メール",
+        "password": "パスワード",
+        "remember": "リメンバーミー",
+        "forgot": "パスワードをお忘れの方",
+        "errorPassword": "ログインまたはパスワードが無効",
+        "haveAccount": "アカウントをお持ちでない方",
+        "register": "登録",
+        "logIn": "ログイン"
+      },
+      "signUp": {
+        "headline": "GameTradeサインアップ",
+        "sentCode": {
+          "part_1": "\"にメールが送信されました。 ",
+          "part_2": "をクリックすると、アカウントを確認するためのコードが表示されます。Youn must verify your account to be able to log in.\" とあります、"
+        },
+        "continue": "続き",
+        "google": "Googleサインアップ",
+        "or": "または",
+        "mail": "電子メール",
+        "password": "パスワード",
+        "accept": "を受け入れる。",
+        "agreement": "協定",
+        "code": "プロモコード",
+        "signUp": "サインアップ",
+        "member": "すでに会員登録されている方",
+        "logIn": "ログイン"
+      },
+      "verify": {
+        "accountHasBeen": "あなたのアカウントは",
+        "successfully": "検証に成功しました",
+        "error": "検証エラーです。",
+        "done": "ダン",
+        "pleaseTryAgain": "再度お試しください",
+        "tryAgain": "再試行",
+        "signUp": "GameTradeサインアップ",
+        "enterCode": "弊社からメールでお送りしたコードを入力してください",
+        "errorCodeMessage": "コードは6文字以下または6文字を超えることはできません。",
+        "invalid": "無効なEメールまたはコード",
+        "verify": "ベリファイ",
+        "completed": "完了しました。検証コード入力済み"
+      },
+      "reset": {
+        "thePassword": "パスワード",
+        "beenReset": "リセットされた",
+        "nowUse": "新しいパスワードでアカウントにログインできるようになりました",
+        "done": "完了",
+        "yourPassword": "お客様のパスワード",
+        "notBeenReset": "リセットされていない",
+        "errorTryAgain": "パスワードの変更中にエラーが発生しました。もう一度やり直してください。",
+        "tryAgain": "再試行",
+        "enterCode": "弊社からメールでお送りしたコードを入力してください",
+        "eightCharacters": "パスワードは、8文字以上かつ",
+        "matchMail": "空白を含むことができない、またはメールアドレスと一致しない",
+        "newPassword": "新パスワード",
+        "confirmPassword": "新しいパスワードの確認",
+        "passwordMismatch": "パスワードの不一致",
+        "codeCannot": "コードは6文字以下または6文字を超えることはできません。",
+        "firstPassword": "第一パスワードフィールド",
+        "secondPassword": "第二パスワードフィールド",
+        "restorePassword": "パスワードの復元"
+      },
+      "restore": {
+        "headline": "パスワードをリセット",
+        "description": "ゲームトレードのアカウントを作成する際に使用したメールアドレスを入力してください。\n              は、パスワードをリセットするためのリンクを送信します。",
+        "mail": "電子メール",
+        "continue": "続き",
+        "receive": "リンクが届いていない？"
+      }
+    },
+    "metamaskNotInstalled": "Metamaskアプリケーションはインストールされていません。アイテムの売買を行うには、お使いの端末にMetamaskをインストールしてください",
+    "metamaskConnect": "メタマスク自動接続です。メタマスクが自動的に開かないと、自分で開いてください。",
+    "please": "お願い",
+    "loginOrReg": "ログインまたは登録",
+    "workWithToken": "を使って、トークンと連携する",
+    "networkChange": "ネットワークが変わります。metamaskが自動的に開かない場合は、開いてください。",
+    "youHave": "ネットワークの自動切り替えをキャンセルしました。にご自身でネットワークを切り替えてください。",
+    "networkId": "ネットワークIDです：",
+    "itemIsNotApproved": "アイテムが承認されていない",
+    "approvedTheToken": "プラットフォーム上でトークンを承認することに成功しました。",
+    "itemIsNotApproved2": "アイテムが承認されていない。価格を設定するには、まずトークンを承認する必要があります。",
+    "bidding": "入札が成立しました。データが更新されていない場合は押してください。",
+    "refresh": "リフレッシュ",
+    "purchase": "購入は成功した！どうか、オーナーと価格が自動的に更新されなかった場合は、その場で",
+    "button": "ボタン - これでデータが同期されます",
+    "changeWallet": "価格を設定したい場合は、メタマスクのアクティブウォレットをアイテムを所有しているウォレットに変更してください",
+    "addWallet": "ページ内に最初のウォレットを追加する",
+    "myAccount": "'マイページ'",
+    "afterAddingWallet": ". ウォレットを追加した後、このページを更新してください",
+    "thisWallet": "このウォレットは接続されていません",
+    "addNewWallet": "で新しいウォレットを追加します。",
+    "page": "ページを更新してください。ウォレットを追加した後、このページをリフレッシュしてください",
+    "sorry": "申し訳ありませんが、何が起こったのかわかりません。受信したエラーのシナリオをサポートでお知らせください。",
+    "install": "metamaskをインストールしてください。",
+    "dontSupport": "申し訳ありません。このネットワークやトークンはまだサポートしていません",
+    "justPurchase": "トークンは購入されたばかりです",
+    "justPurchase2": "申し訳ありません。トークンは購入されたばかりです",
+    "errors": {
+      "passwordFieldIsRequired": "パスワードの項目は必須です",
+      "passwordCannotBeLess": "パスワードは8文字以下にはできません",
+      "passwordCannotExceed": "パスワードは99文字を超えることはできません",
+      "PasswordWillNotHaveSpaces": "パスワードにはスペースは含まれません",
+      "emailFieldIsRequired": "Eメール欄は必須です",
+      "invalidEmail": "無効な電子メール",
+      "codeCannotBeLess": "コードは6文字以下にはできません",
+      "codeCannotExceed": "コードは6文字を超えることはできません",
+      "codeCannotBeLessThan8": "コードは8文字以下にはできません",
+      "codeCannotExceed8": "コードは8文字を超えることはできません",
+      "pleaseAccept": "同意の上、お手続きをお願いします！"
+    }
+  }
+}

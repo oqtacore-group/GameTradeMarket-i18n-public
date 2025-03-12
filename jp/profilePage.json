@@ -1,0 +1,24 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "marketplace": "マーケットプレイス",
+    "myProfile": "プロフィール",
+    "userProfile": "ユーザープロフィール",
+    "game": "ゲーム",
+    "friends": "友人",
+    "noFriends": "友人がいない",
+    "tabs": {
+      "noItems": "アイテムがない",
+      "forSale": "販売中",
+      "ownedItems": "所有アイテム"
+    },
+    "header": {
+      "sendMessage": "メッセージの送信",
+      "request": "友達申請中",
+      "add": "友達に追加",
+      "online": "オンライン"
+    }
+  }
+}

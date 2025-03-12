@@ -1,0 +1,15 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "price": {
+      "priceYet": "We don't know the current price yet",
+      "notForSale": "not for sale",
+      "floorPrice": "Floor price",
+      "willBeAvailable": "Will be available",
+      "numberOfReviews": "Number of reviews",
+      "new": "New"
+    }
+  }
+}

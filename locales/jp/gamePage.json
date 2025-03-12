@@ -1,0 +1,77 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "games": "マーケットプレイス",
+      "noName": "名無しさん"
+    },
+    "admitted": "取引リストに登録済み",
+    "about": "ゲームについて",
+    "description": {
+      "publisher": "投稿者",
+      "developer": "開発者",
+      "releaseDate": "リリース日付",
+      "rating": "レーティング",
+      "genres": "ジャンル",
+      "itemsOnSale": "セール対象商品数",
+      "floorPrice": "最低価格",
+      "tx7d": "7日間のトランザクション",
+      "tx30d": "30日間のトランザクション",
+      "uaw7d": "7日間のユニークアクティブウォレット",
+      "uaw30d": "30日間のユニークアクティブウォレット",
+      "play": "プレイ",
+      "shopItems": "アイテムを購入",
+      "contracts": "コントラクト"
+    },
+    "buying": {
+      "description": "という独自のゲーム通貨が存在するゲームです。",
+      "buyText": "多くのゲームアイテムを購入するためには、以下のような支払いが必要です。",
+      "buy": "購入する"
+    },
+    "blog": {
+      "title": "デベロッパーズブログ",
+      "subTitle": "最近のイベント＆お知らせ",
+      "view": "すべて見る"
+    },
+    "carousel": {
+      "title": "このゲームに登場するアイテム",
+      "subTitle": "GameTradeに最近追加されたアイテム",
+      "view": "すべて見る"
+    },
+    "reviews": {
+      "title": "レーティングが高いレビュー",
+      "subTitle": "30日間内で",
+      "noReviews": "まだレビューがない",
+      "write": "レビューを書く",
+      "addReview": "としてレビューを追加",
+      "post": "投稿",
+      "rateGame": "ゲームを評価してください。",
+      "choiceRating": "要チョイス評価",
+      "rateNumber": {
+        "highlyNotRecommended": "1 - 絶対にお勧めできない",
+        "notRecommended": "2 - お勧めできない",
+        "neutral": "3 - 中立的な評価",
+        "recommended": "4 - お勧め",
+        "highlyRecommended": "5 - 強くお勧め"
+      },
+      "delete": "メッセージの削除に成功",
+      "wantDelete": "本当にレビューを削除していいのですか？",
+      "yes": "はい",
+      "no": "いいえ",
+      "review": "見直し",
+      "reviews": "レビュー",
+      "posted": "投稿されました：",
+      "rateText": {
+        "highlyNotRecommended": "絶対にお勧めできない",
+        "notRecommended": "お勧めできない",
+        "neutral": "中立的な評価",
+        "recommended": "お勧め",
+        "highlyRecommended": "強くお勧め"
+      },
+      "save": "セーブ",
+      "cancel": "キャンセル"
+    }
+  }
+}

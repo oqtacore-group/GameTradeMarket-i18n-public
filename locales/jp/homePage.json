@@ -1,0 +1,51 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "headline": "ゲームアイテムを暗号通貨で売買できる",
+    "recentTransactions": "最近の取引",
+    "gameSupported": "私のゲームは対応していますか？",
+    "trendingGames": "トレンドのゲーム",
+    "findByGenre": "ジャンルから探す",
+    "highestRanked": "最高位",
+    "topFreeToPlay": "トップ・フリー・トゥ・プレイ",
+    "noNFTrequired": "NFTは不要でスタートできます",
+    "findByBlockchain": "ブロックチェーンで探す",
+    "playAndEarn": "NFTのゲームで遊ぶ、稼ぐ",
+    "setUpYourWallet": {
+      "headline": "お財布をセットアップする",
+      "description": "マイアカウントでウォレットをリンクする"
+    },
+    "playAnNFTgame": {
+      "headline": "NFTをする",
+      "description": "カタログに掲載されている150以上のゲームの中から1つ選んでプレイしてください！"
+    },
+    "earnNFTitems": {
+      "headline": "EARN NFTアイテム",
+      "description": "遊んで暗号やNFTを稼ぐ（夜明けから夕暮れまで働くより素敵な響きですよね？）"
+    },
+    "listItemForSale": {
+      "headline": "売り物件",
+      "description": "NFTや暗号をここで、GameTradeで売却する。"
+    },
+    "ourBlog": "弊社ブログ",
+    "browseMore": "もっと見る",
+    "gameTrade": "GameTrade Marketは、Web3のゲームアイテムのみを扱うマーケットプレイスです。",
+    "whatDoesItMean": "どんな意味があるのでしょうか？",
+    "web3": "Web3は、ゲームのアイテムやその所有者に関する情報を保存する新しい方法です。前世代（Web2）のゲームでは、アイテムの所有権に関する情報は、ゲームのサーバーに保存されています。つまり、別のサーバーでプレイすると、すべての所有者情報にアクセスできなくなり、すべてのアイテムを入手し直さなければならない。また、サーバーが故障した場合、所有権は永久に失われます。",
+    "also": "また、Web2ゲームでは、サードパーティのウェブサイトを使用して安全にアイテムを取引することはできません。様々な広告掲示板を利用して、買い手・売り手の候補を探し、自己責任で取引を行うことは可能です：",
+    "beingScammed": "詐欺にあう",
+    "beingBlocked": "RWT（リアルワールドトレード）でゲーム開発会社からブロックされたこと。",
+    "web3IsMuchBetter": "Web3はもっといい",
+    "web3Games": "Web3ゲームでは、ゲームサーバーとは別に、すべての所有権情報を保存しています。そして、ゲーム開発者は、あなたのアイテムをどうするかについて、あなたに指示する権限はありません。できることを意味します：",
+    "buyItems": "商品を購入する",
+    "sellItems": "アイテムを販売する",
+    "rentItems": "レンタル品",
+    "borrowItems": "アイテムを借りる",
+    "destroyItems": "アイテムを破壊する",
+    "allTheTransactions": "すべての取引は100％安全で、詐欺のリスクはありません。しかも、ゲーム開発者の許可は必要ありません。なんとクールなことでしょう。",
+    "weAreStanding": "現実世界のトレーダーが国際取引所で商品を売買するように、あるゲームの戦利品を素早く売り、別のゲームの戦利品を買うことができる、ゲーム間経済の新時代の端に立っているのです。",
+    "gtmIsJust": "GameTrade Marketは、Web3ゲームの新時代に向けた数多くのサードパーティサイトの1つに過ぎません。"
+  }
+}

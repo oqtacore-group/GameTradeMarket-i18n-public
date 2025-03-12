@@ -1,0 +1,124 @@
+{
+    "language": "english",
+    "i18n": "en",
+    "ns": "base",
+    "translation": {
+        "title": "Development roadmap",
+        "calendarQ3_2021": "Q3 2021",
+        "contentQ3_2021": {
+            "part_1": "GameTrade concept design",
+            "part_2": "Market research",
+            "part_3": "Hiring",
+            "part_4": "Marketplace UX design",
+            "part_5": "Proof of concept technical build",
+            "part_6": "Angel investments $500 000"
+        },
+        "calendarQ4_2021": "Q4 2021",
+        "contentQ4_2021": {
+            "part_1": "Establish company in Switzerland",
+            "part_2": "VC`s Pitch deck https://brieflink.com/v/dxhgr",
+            "part_3": "Marketplace UI design",
+            "part_4": "NFT collection concept",
+            "part_5": "Marketing strategy development",
+            "part_6": "Partnership with 3 blockchain industry leaders",
+            "part_7": "GameTrade NFT marketplace infrastructure setup",
+            "part_8": "Beta version of trade smart contract",
+            "part_9": "Support for Ethereum & Polygon"
+        },
+        "calendarQ1_2022": "Q1 2022",
+        "contentQ1_2022": {
+            "part_1": "Discord and Twitter launch",
+            "part_2": "Trade smart contracts for Ethereum",
+            "part_3": "Trade smart contracts for Polygon",
+            "part_4": "Trade smart contracts for BSC",
+            "part_5": "User profiles",
+            "part_6": "Direct Messaging",
+            "part_7": "Various ongoing partnership agreements"
+        },
+        "calendarQ2_2022": "Q2 2022",
+        "contentQ2_2022": {
+            "part_1": "Multi-wallet support",
+            "part_2": "Advanced search and filtering",
+            "part_3": "Friends system",
+            "part_4": "Alpha test",
+            "part_5": "Games integration",
+            "part_6": "Official game pages",
+            "part_7": "GameTrade Marketplace soft launch",
+            "part_8": "Big partnerships (BGA, Polygon)"
+        },
+        "calendarQ3_2022": "Q3 2022",
+        "contentQ3_2022": {
+            "part_1": "Game reviews",
+            "part_2": "Recommendation system",
+            "part_3": "GameTrade tokenomics design",
+            "part_4": "Buy game currency",
+            "part_5": "List and buy game items for game currency",
+            "part_6": "Game guides: https://gametrademarket.medium.com",
+            "part_7": "Work on SEO. Achieved top-7 in Google for 'Game items marketplace'",
+            "part_8": "Added 180 Web3 games to the knowledge database",
+            "part_9": "Added 1.6m game items"
+        },
+        "calendarQ4_2022": "Q4 2022",
+        "contentQ4_2022": {
+            "part_1": "Integration of game pages with Medium",
+            "part_2": "Official launch on November 8th",
+            "part_3": "Start marketing campaign",
+            "part_5": "Referral system",
+            "part_6": "Comments",
+            "part_9": "New games integration",
+            "part_10": "Work on partnerships",
+            "part_11": "New Landing Page"
+        },
+        "calendarQ1_2023": "Q1 2023",
+        "contentQ1_2023": {
+            "part_1": "Development of partnership programs",
+            "part_2": "UX/UI optimization",
+            "part_3": "Launching a YouTube channel with game reviews",
+            "part_4": "Support Immutable X"
+        },
+        "calendarQ2_2023": "Q2 2023",
+        "contentQ2_2023": {
+            "part_1": "Launch of GTM SoundCloud as part of the partner program",
+            "part_2": "Expansion of the NFT range",
+            "part_3": "Holding AMA sessions with the partners",
+            "part_4": "Integration with RARIble"
+        },
+        "calendarQ3_2023": "Q3 2023",
+        "contentQ3_2023": {
+            "part_1": "Game launchpad",
+            "part_2": "Item mint",
+            "part_3": "Start of the GTM Overlay integration project"
+        },
+        "calendarQ4_2023": "Q4 2023 (current)",
+        "contentQ4_2023": {
+            "part_1": "Announcement of GTM School educational program",
+            "part_2": "Updating the game evaluation system"
+        },
+        "calendarQ1_2024": "Q1 2024",
+        "contentQ1_2024": {
+            "part_1": "Support Avalanche blockchain",
+            "part_2": "Pay with credit preview-preview-card (Paper wallet Integration)"
+        },
+        "calendarQ2_2024": "Q2 2024",
+        "contentQ2_2024": {
+            "part_1": "Utility NFTs by GameTrade",
+            "part_2": "NFT reward system",
+            "part_3": "Game developers dashboard",
+            "part_4": "Exclusive giveaways/events for holders"
+        },
+        "calendarQ3_2024": "Q3 2024",
+        "contentQ3_2024": {
+            "part_1": "Social Groups",
+            "part_2": "Game streams"
+        },
+        "calendarLater": "Later",
+        "contentLater": {
+            "part_1": "P2P trade",
+            "part_2": "Esports tournaments",
+            "part_3": "Esports integration",
+            "part_4": "Wallets and items Insurance",
+            "part_5": "Renting system",
+            "part_6": "Wish list "
+        }
+    }
+}

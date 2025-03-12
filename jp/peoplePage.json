@@ -1,0 +1,17 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "people": "ユーザー",
+    "users": "人のユーザ",
+    "filterPeople": "ユーザーで検索",
+    "online": "オンライン",
+    "item": "アイテム",
+    "noItems": "アイテムがない",
+    "requestSent": "リクエスト送信",
+    "cancelRequest": "リクエストの取り消し",
+    "sendMessage": "メッセージの送信",
+    "addToFriends": "友達に追加する"
+  }
+}

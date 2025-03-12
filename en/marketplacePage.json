@@ -1,0 +1,28 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "items": "items",
+    "game": "Game",
+    "filterGame": "Filter game",
+    "gamesNotFound": "games not found",
+    "saleType": "Sale Type",
+    "priceRange": "Price range",
+    "apply": "Apply",
+    "reset": "Reset",
+    "facets": "Facets",
+    "noTokensFound": "No tokens for this game",
+    "search": "Search",
+    "sortBy": "Sort by",
+    "filter": "Filter",
+    "min": "Min",
+    "max": "Max",
+    "recentlyAdded": "Recently added",
+    "priceLowToHigh": "Price: Low to High",
+    "priceHighToLow": "Price: High to Low",
+    "auctionEnding": "Auction ending soon",
+    "ratingLowToHigh": "Rating: Low to High",
+    "ratingHighToLow": "Rating: High to Low"
+  }
+}

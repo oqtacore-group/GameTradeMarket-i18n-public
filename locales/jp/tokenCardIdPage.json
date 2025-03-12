@@ -1,0 +1,50 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "marketplace": "マーケットプレイス",
+      "noName": "名無しさん"
+    },
+    "buttons": {
+      "setThePrice": "価格を設定する",
+      "approveToken": "トークンを承認する",
+      "buy": "購入する"
+    },
+    "description": {
+      "refreshData": "リフレッシュデータ",
+      "noInformation": "ノー・インフォメーション・オブ・ザ・イヤー",
+      "ownedBy": "保有者アドレス:",
+      "description": "商品説明"
+    },
+    "setThePrice": {
+      "pleaseSelect": "売却を希望されるコインをお選びください。",
+      "setThePrice": "価格を設定する：",
+      "noPrice": "コイントレーダー契約では価格なし",
+      "sell": "販売する",
+      "onlySixDecimal": "小数点以下6桁のみ"
+    },
+    "approve": {
+      "title": {
+        "needHave": {
+          "part_1": "トークンを購入する前に、GameTradeのトレードスマートコントラクトを許可する必要があります。\n                    控除するために",
+          "part_2": "お財布から"
+        },
+        "youHave": "GameTradeのトレードスマートで支出を許された資金が十分にある\n                    契約し、すぐにトークンの購入に進むことができます。"
+      },
+      "then": "では",
+      "buy": "購入する",
+      "txCompleted": {
+        "part_1": "トランザクションが完了しました。",
+        "part_2": "トークンはこれであなたのものです！"
+      }
+    },
+    "levels": "水準器",
+    "properties": "物性",
+    "moreCollection": "コレクションのアイテムとNFTをもっと見る",
+    "marketplace": {
+      "buy": "購入"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "price": {
+      "priceYet": "現在の価格はまだわからない",
+      "notForSale": "非売品",
+      "floorPrice": "フロア価格です",
+      "willBeAvailable": "発売予定",
+      "numberOfReviews": "レビュー数",
+      "new": "新規"
+    }
+  }
+}

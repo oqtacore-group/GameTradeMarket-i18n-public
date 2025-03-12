@@ -1,0 +1,123 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "promoBlock": {
+      "headline": {
+        "part_1": "Discover, buy,",
+        "part_2": "sell",
+        "part_3": "and trade",
+        "part_4": "in-game",
+        "part_5": "NFTs"
+      },
+      "description": {
+        "part_1": "GameTrade is a specialized and convenient",
+        "part_2": "marketplace for trading virtual in-game NFTs."
+      },
+      "explore": "Explore"
+    },
+    "whatAreNftBlock": {
+      "headline": {
+        "part_1": "IF YOU CAN’T SELL YOUR ITEMS,",
+        "part_2": "YOU DON’T OWN THEM"
+      },
+      "subHeadline": "What are NFT game items?",
+      "description": "NFT game items live independently from the game. You are the real owner of such an item,\n            meaning that you can buy, sell or trade this item for real money legally. Current owner\n            of an NFT game item can use this item in the game."
+    },
+    "aboutUs": {
+      "headline": "About us",
+      "description": "GameTrade is a usability-first NFT marketplace for gamers and professional traders.\n          GameTrade provides advanced communication functionality for the best trading experience.\n          We are building a hybrid of social media and a trading platform, as this is the way we see\n          trading happening in future virtual metaverses.",
+      "status": "online",
+      "message": "Message",
+      "tradeItems": "Trade items",
+      "breedCount": "Breed Count",
+      "backAccuracy": "Back Accuracy",
+      "saleType": "Sale type",
+      "fixedPrice": {
+        "title": "Fixed Price"
+      },
+      "notForSale": {
+        "title": "Not for sale"
+      }
+    },
+    "backedBy": {
+      "headline": "Backed by"
+    },
+    "features": {
+      "headline": "Features",
+      "buySellTrade": {
+        "title": "Buy/Sell/Trade",
+        "description": "We offer a large toolset including buyer-seller communication, price tracking, automatic buying and selling, trading items between GameTrade users."
+      },
+      "fixedPriceAuction": {
+        "title": "Fixed price or Auction",
+        "description": "You are given various opportunities to get the maximum price for your item. Put a price upfront or let other gamers compete for your items with their wallets."
+      },
+      "multipleCryptoWallets": {
+        "title": "Multiple crypto wallets",
+        "description": "Professional traders have to use multiple game accounts (literally hundreds). GameTrade provides this functionality, allowing much easier professional trading."
+      },
+      "notJust": {
+        "title": "Not just a store, community",
+        "description": "Apart from direct messaging, activities like reviewing games, items and other users are the essential part of the GameTrade community experience"
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "Every transaction is completely secured by the blockchain technology, items cannot be stolen, duplicated or otherwise obtained from their lawful owner without direct consent."
+      },
+      "customizability": {
+        "title": "Customizability",
+        "description": "Every user has their own profile page on GameTrade. Make it stand out by choosing highlighted items, avatar and even profile background picture"
+      },
+      "feature_1": {
+        "title": "Official Game Page",
+        "description": "An official game page is a very useful tool for you to have on our platform, you will be able to customize it to fit the aesthetic of your game and your page will be given a verified status, so the users know that it is the official page."
+      },
+      "feature_2": {
+        "title": "Game guides",
+        "description": "GameTrade team will provide your game with high-quality guides so everyone won't have any troubles with starting playing it."
+      },
+      "feature_3": {
+        "title": "Special activities for your community",
+        "description": "GameTrade holds regular giveaways and other contests for our partners game communities."
+      },
+      "feature_4": {
+        "title": "Gain new players",
+        "description": "GameTrade community is really active and always seek for new Web3 games to enjoy!"
+      },
+      "feature_5": {
+        "title": "Game coins",
+        "description": "GameTrade community is really active and always seek for new Web3 games to enjoy!"
+      },
+      "feature_6": {
+        "title": "Regular AMA sessions and online events",
+        "description": "GameTrade holds regular events for our partners games so you will be able to gain new users regularly."
+      },
+      "feature_7": {
+        "title": "Anonymous statistical data",
+        "description": "  As we are aiming to be the best marketplace for virtual in-game NFTs, we are going to have a large amount of statistical data on the NFT gaming market, which you will be able to purchase from us.\n",
+        "title_2": "Examples of statistical data:",
+        "points_1": "Number of users by country",
+        "points_2": "Which items are sold together", 
+        "points_3": "Distribution of active users by the time", 
+        "points_4": "Average user spending by country",
+        "description_2": "You can also request any statistics from us that you need."
+      },
+      "feature": "Features"
+    },
+    "supportedGames": {
+      "headline": "What games are supported?",
+      "description": "We are always looking at all new and promising projects. Before adding a game to our\n          platform, we research its gameplay, game economy and community.",
+      "additional": "Are you a developer?",
+      "visitPage": "Visit page",
+      "otherGames": "And dozens of other games"
+    },
+    "headTitle_1": "Write to us",
+    "headText_1": "Interested in selling your game items through our platform, using it as a white label or holding various events for your community with GameTrade? Get in touch with us!",
+    "button": "Get in touch with us",
+    "headTitle_2": "More for developers",
+    "headText_2": "We are aiming to be the best marketplace for virtual in-game NFTs. It’s our goal to support all the existing NFT games and we would love to collaborate with you, the developers, so you could have your personal official game pages on our marketplace, and have exclusive sales, discounts, and offers for your fellow gamers!",
+    "feature": "Features"
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "language": "english",
+    "i18n": "en",
+    "ns": "base",
+    "translation": {
+        "head": "How it works",
+        "title": "What is an NFT?",
+        "p1": "NFTs prove ownership of a unique digital asset like art, music, collectibles, videos or anything else with blockchain technology.",
+        "p2": "NFT stands for non-fungible token. That sounds like an intimidating technical term (no more nerd talk, promise!). But NFTs are just digital certificates of authenticity.",
+        "p3": "If you buy a physical painting, you know it’s real because you see the artist’s signature on the canvas. Somebody can photocopy the painting, but they don’t own it — you do. Before NFTs, digital assets were like photocopies:",
+        "p4": "You can see who posted something, but you can’t see who owns an Instagram post, Pinterest Pin or Reddit meme.",
+        "p5": "NFTs are like a signature for digital items: They authenticate ownership of digital assets like art, collectibles, music, videos, in-game assets, and more. Just like physical certificates, they document:",
+        "p6": "Who created it",
+        "p7": "When it was created",
+        "p8": "Who bought it (and when)",
+        "p9": "The price(s) it solds for",
+        "p10": "Who owns it now",
+        "p11": "(Technically, NFTs can contain any data the creator wants to include, but the above are most relevant.)",
+        "p12": "All of this is public via a blockchain, so anyone can trace each of your NFTs from the original creator all the way to your wallet—and verify its authenticity (even the friends who call you crazy for buying a profile picture 😉).",
+        "p13": "But owning digital assets is more than “nice to have”, a fun hobby or a digital stampcollection.",
+        "accordion_1": {
+            "title": "What are Proof of Work (PoW) and Proof of Stake (PoS) blockchains?",
+            "text_1": "We’re almost done with the technical terms, just bear with us for a moment here! These two «consensus mechanisms» are different ways blockchains validate transactions. There are big technical differences, but we promised to spare you the technical talk—so let’s talk about what matters to you.",
+            "text_2": "The main practical differences are:",
+            "text_3": "Proof of Work is extremely secure and decentralized, but consumes high amounts of energy and makes blockchains relatively slow because it relies on miners and their hardware to verify each block. In the case of Ethereum, it can also lead to high fees for buying, selling or minting NFTs.",
+            "text_4": "Proof of Stake blockchains usually have lower fees and higher performance since blocks are published by stakers—the PoS equivalent of miners—who lock up their funds in a smart contract. Because these blockchains are more efficient and no noisy expensive hardware is involved in the process, they also consume way less energy and have a smaller carbon footprint.",
+            "text_5": "As far as how you interact with digital assets, nothing changes between Proof of Work and Proof of Stake blockchains."
+        },
+        "accordion_2": {
+            "title": "What is a wallet? Why do I need one?",
+            "text_1": "Your physical wallet probably contains your money, a form of ID, and maybe pictures of your loved ones (we’ll ignore that 3 year-old Starbuck’s membership card with $1.83 on it).",
+            "text_2": "Your crypto wallet does that on a blockchain. It has an “ID” (a long string of numbers and letters), your cryptocurrencies and any NFTs you bought with those cryptocurrencies. There are a number of wallet providers, including Metamask (the most popular and easy to use), Fortmatic, Coinbase and Rainbow, among others.",
+            "text_3": "When you create a crypto wallet, you get a “seed phrase” — a series of words which let you recover your currencies or NFTs if you lose access.",
+            "text_4": "NEVER GIVE THIS PHRASE TO ANYONE.",
+            "text_4_4": "Anyone who knows your seed phrase has full access to your wallet and can buy, sell or transfer any funds or assets.",
+            "text_5": "To transact with cryptocurrencies or NFTs on GameTrade or anywhere else, you need to connect your wallet to log in."
+        },
+        "accordion_3": {
+            "title": "What makes GameTrade different from other NFT marketplaces?",
+            "text_1": "BTW GameTrade is NOT the only marketplace. Here’s a few reasons you might love GameTrade:",
+            "text_2": "Trade and rent. New possibilities for the in-game NFT economies. Users can trade or rent to each other",
+            "text_3": "Multi-chain: Some marketplaces only work on one blockchain. That means you miss out on NFTs you’d love which exist on other chains.",
+            "text_4": "Friends / networking. Messaging, news feed, referral programs. Great networking capabilities for finding friends and clients.",
+            "text_5": "Game-focused. GTM is an online marketplace like Amazon or eBay. The marketplace is fully focused on game industry, unlike OpenSea or Rarible. Game focus will allow for much closer community",
+            "text_6": "Community. User reputation, game reviews, item reviews, user-generated game guides, commenting functionality"
+        },
+        "contactUs": {
+            "title": "Can’t find your answer?",
+            "description": "Contact us and we’ll get back to you as soon as we can.",
+            "discord": "Discord",
+            "button": "Help center"
+        }
+    }
+}

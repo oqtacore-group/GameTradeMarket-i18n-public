@@ -1,0 +1,46 @@
+{
+    "language": "english",
+    "i18n": "en",
+    "ns": "base",
+    "translation": {
+        "headTitle_1": "Write to us",
+        "headText_1": "Interested in selling your game items through our platform, using it as a white label or holding various events for your community with GameTrade? Get in touch with us!",
+        "button": "Get in touch with us",
+        "headTitle_2": "More for developers",
+        "headText_2": "We are aiming to be the best marketplace for virtual in-game NFTs. It’s our goal to support all the existing NFT games and we would love to collaborate with you, the developers, so you could have your personal official game pages on our marketplace, and have exclusive sales, discounts, and offers for your fellow gamers!",
+        "feature": "Features",
+        "features": {
+            "feature_1": {
+                "title": "Official Game Page",
+                "description": "An official game page is a very useful tool for you to have on our platform, you will be able to customize it to fit the aesthetic of your game and your page will be given a verified status, so the users know that it is the official page."
+            },
+            "feature_2": {
+                "title": "Game guides",
+                "description": "GameTrade team will provide your game with high-quality guides so everyone won't have any troubles with starting playing it."
+            },
+            "feature_3": {
+                "title": "Special activities for your community",
+                "description": "GameTrade holds regular giveaways and other contests for our partners game communities."
+            },
+            "feature_4": {
+                "title": "Gain new players",
+                "description": "GameTrade community is really active and always seek for new Web3 games to enjoy!"
+            },
+            "feature_5": {
+                "title": "Game coins",
+                "description": "GameTrade community is really active and always seek for new Web3 games to enjoy!"
+            },
+            "feature_6": {
+                "title": "Regular AMA sessions and online events",
+                "description": "GameTrade holds regular events for our partners games so you will be able to gain new users regularly."
+            },
+            "feature_7": {
+                "title": "Anonymous statistical data",
+                "description": "  As we are aiming to be the best marketplace for virtual in-game NFTs, we are going to have a large amount of statistical data on the NFT gaming market, which you will be able to purchase from us.\n",
+                "title_2": "Examples of statistical data:",
+                "points": "'Number of users by country', 'Which items are sold together', 'Distribution of active users by the time', 'Average user spending by country',",
+                "description_2": "You can also request any statistics from us that you need."
+            }
+        }
+    }
+}

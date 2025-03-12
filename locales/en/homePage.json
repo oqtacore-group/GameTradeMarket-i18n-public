@@ -1,0 +1,51 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "headline": "Buy and sell your game items for cryptocurrency",
+    "recentTransactions": "Recent Transactions",
+    "gameSupported": "Is my game supported?",
+    "trendingGames": "Trending games",
+    "findByGenre": "Find by genre",
+    "highestRanked": "Highest ranked",
+    "topFreeToPlay": "Top free-to-play",
+    "noNFTrequired": "No NFT required to start",
+    "findByBlockchain": "Find by blockchain",
+    "playAndEarn": "Play and earn with NFT games",
+    "setUpYourWallet": {
+      "headline": "SET UP YOUR WALLET",
+      "description": "Link your wallet(s) in My Account"
+    },
+    "playAnNFTgame": {
+      "headline": "PLAY AN NFT GAME",
+      "description": "Choose one of 150+ games in our catalogue and play!"
+    },
+    "earnNFTitems": {
+      "headline": "EARN NFT ITEMS",
+      "description": "Earn crypto or NFTs playing (it sounds nicer than working from dawn to dusk, doesn't it?)"
+    },
+    "listItemForSale": {
+      "headline": "LIST ITEM FOR SALE",
+      "description": "Sell your NFTs or crypto here, on GameTrade"
+    },
+    "ourBlog": "Our blog",
+    "browseMore": "Browse more",
+    "gameTrade": "GameTrade Market is a marketplace for Web3 game items only.",
+    "whatDoesItMean": "What does it mean?",
+    "web3": "Web3 is the new way to store information about game items and their owners. In previous-generation (Web2) games, the information about the item ownership is stored on the game’s server. It means that if you play on a different server, all the ownership information will be inaccessible and you have to obtain all the items again. Or, if the server gets damaged, the ownership will be lost forever.",
+    "also": "Also, in Web2 games, you cannot use a 3rd party website to trade your items safely. You can use various ad boards and find potential buyers/sellers and conduct transaction at your own risk of:",
+    "beingScammed": "Being scammed",
+    "beingBlocked": "Being blocked by the game developer for RWT (real-world trading)",
+    "web3IsMuchBetter": "Web3 is much better",
+    "web3Games": "Web3 games store all the ownership information separately from the game servers. And the game developer has no power to tell you what to do with your items. It means that you can:",
+    "buyItems": "Buy items",
+    "sellItems": "Sell items",
+    "rentItems": "Rent items",
+    "borrowItems": "Borrow items",
+    "destroyItems": "Destroy items",
+    "allTheTransactions": "All the transactions are 100% safe and there is no risk of scams. And you do not need permission from the game developer, how cool is that?",
+    "weAreStanding": "We are standing on the edge of the new era of inter-game economy, where you can quickly sell loot from one game and buy loot from another game, just like real-world traders trade goods on international exchanges.",
+    "gtmIsJust": "GameTrade Market is just one of the many 3rd party websites for the new era of Web3 games."
+  }
+}

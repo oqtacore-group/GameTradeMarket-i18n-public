@@ -1,0 +1,11 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "marketplace": "マーケットプレイス",
+    "friendsOfUser": "フレンズ・オブ・ユーザー",
+    "friends": "フレンズ",
+    "online": "オンライン"
+  }
+}

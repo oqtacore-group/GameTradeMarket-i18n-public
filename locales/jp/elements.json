@@ -1,0 +1,69 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "levels": "より",
+    "properties": "わがいをえる",
+    "developer": {
+      "title": "デベロッパーズブログ",
+      "subTitle": "すべてのイベント＆アナウンスメント"
+    },
+    "gameSlide" : {
+      "explore" : "エクスプロア"
+    },
+    "noDataAvailable": "データがない",
+    "showMore": "すべて見る",
+    "event": {
+      "sold": "売約済み",
+      "seconds": "お代わり",
+      "min": "ミニ",
+      "secAgo": "秒前",
+      "ago": "前に",
+      "secondsAgo": "秒殺",
+      "from": "からして",
+      "was": "わず",
+      "to": "まで",
+      "for": "にとって"
+    },
+    "visit": {
+      "neverVisit": "訪問しない",
+      "lastVisit": "最終訪問",
+      "ago": "前に",
+      "minute": "細緻",
+      "minutes": "議事録",
+      "hour": "時",
+      "hours": "時間",
+      "day": "日",
+      "days": "日",
+      "month": "月",
+      "months": "つき",
+      "year": "イヤー",
+      "years": "ねんねん"
+    },
+    "notifications": "お知らせ",
+    "noNewNotifications": "新着通知なし",
+    "allIncomingRequests": "すべての受信リクエスト",
+    "accept": "アクセプト",
+    "decline": "減少",
+    "allOutgoingRequests": "すべての発信依頼",
+    "sendMessage": "メッセージの送信",
+    "goToChat": "チャットへ移動",
+    "markAsRead": "読んだらマークする",
+    "viewItem": "アイテムを見る",
+    "sorting": {
+      "recentlyAdded": "最近追加順",
+      "priceLowToHigh": "価格が安い順",
+      "priceHighToLow": "価格が高い順",
+      "auctionEnding": "オークションも\nうすぐ終了",
+      "ratingLowToHigh": "レーティング\nが低い順",
+      "ratingHighToLow": "レーティング\nが高い順"
+    },
+    "breadCrumbs": {
+      "games": "マーケットプレイス",
+      "noName": "名無しさん"
+    },
+    "cookies": "このウェブサイトでは、ユーザー体験を向上させるためにCookieを使用しています",
+    "acceptCookies": "クッキーを受け入れる"
+  }
+}

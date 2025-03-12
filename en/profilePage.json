@@ -1,0 +1,24 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "marketplace": "Marketplace",
+    "myProfile": "My Profile",
+    "userProfile": "User Profile",
+    "game": "Game",
+    "friends": "Friends",
+    "noFriends": "No friends",
+    "tabs": {
+      "noItems": "No items",
+      "forSale": "For sale",
+      "ownedItems": "Owned items"
+    },
+    "header": {
+      "sendMessage": "Send message",
+      "request": "Friend request pending",
+      "add": "Add to friends",
+      "online": "online"
+    }
+  }
+}

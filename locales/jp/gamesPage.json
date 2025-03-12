@@ -1,0 +1,33 @@
+{
+  "language": "japanase",
+  "i18n": "jp",
+  "ns": "base",
+  "translation": {
+    "games": "ゆうぎ",
+    "filter": "濾過器",
+    "genre": "ジャンル",
+    "filterGenre": "ジャンルでフィルター",
+    "game": "ゲーム",
+    "gamesNotFound": "ジャンルが見つからない",
+    "apply": "当て嵌める",
+    "reset": "組み替える",
+    "search": "検索ゲーム",
+    "sortBy": "並び",
+    "min": "ミニ",
+    "max": "マックス",
+    "blockchain": "ブロックチェーン",
+    "releaseYear": "発売年",
+    "from": "から",
+    "to": "まで",
+    "playAndEarn": "遊び稼ぐ",
+    "priceModel": "価格モデル",
+    "floorPrice": "最低価格",
+    "gameStatus": "ゲームステータス",
+    "device": "デバイス",
+    "recentlyAdded": "最近追加順",
+    "priceLowToHigh": "価格が安い順",
+    "priceHighToLow": "価格が高い順",
+    "ratingLowToHigh": "を最低ランクに",
+    "ratingHighToLow": "を最高ランクに"
+  }
+}

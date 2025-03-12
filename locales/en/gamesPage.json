@@ -1,0 +1,33 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "games": "games",
+    "filter": "Filter",
+    "genre": "Genre",
+    "filterGenre": "Filter genre",
+    "game": "game",
+    "genresNotFound": "genres not found",
+    "apply": "Apply",
+    "reset": "Reset",
+    "search": "Search game",
+    "sortBy": "Sort by",
+    "min": "Min",
+    "max": "Max",
+    "blockchain": "Blockchain",
+    "releaseYear": "Release year",
+    "from": "From",
+    "to": "To",
+    "playAndEarn": "Play & Earn",
+    "priceModel": "Price model",
+    "floorPrice": "Floor price",
+    "gameStatus": "Game status",
+    "device": "Device",
+    "recentlyAdded": "Recently added",
+    "priceLowToHigh": "Price: Low to High",
+    "priceHighToLow": "Price: High to Low",
+    "ratingLowToHigh": "Rating: Low to High",
+    "ratingHighToLow": "Rating: High to Low"
+  }
+}
