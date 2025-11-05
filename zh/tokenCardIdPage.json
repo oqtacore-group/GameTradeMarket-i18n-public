@@ -1,0 +1,49 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "marketplace": "Marketplace",
+      "noName": "No name"
+    },
+    "buttons": {
+      "setThePrice": "Set the price",
+      "approveToken": "Approve token",
+      "buy": "Buy"
+    },
+    "description": {
+      "refreshData": "Refresh data",
+      "noInformation": "no information available",
+      "ownedBy": "Owned by:",
+      "description": "Description"
+    },
+    "setThePrice": {
+      "pleaseSelect": "Please select the coin for which you would like to sell",
+      "setThePrice": "Set the price:",
+      "sell": "Sell",
+      "onlySixDecimal": "Only 6 decimal places"
+    },
+    "approve": {
+      "title": {
+        "needHave": {
+          "part_1": "Before buying the token, you have to allow the GameTrade's trade smart contract\n                    to deduct",
+          "part_2": "from your wallet"
+        },
+        "youHave": "You have enough funds allowed for spending by the GameTrade's trade smart\n                    contract and can immediately proceed to buying the token"
+      },
+      "then": "then",
+      "buy": "Buy",
+      "txCompleted": {
+        "part_1": "Transaction completed.",
+        "part_2": "The token is now yours!"
+      }
+    },
+    "levels": "levels",
+    "properties": "properties",
+    "moreCollection": "more from this collection",
+    "marketplace": {
+      "buy": "Buy"
+    }
+  }
+}

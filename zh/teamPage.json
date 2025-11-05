@@ -1,0 +1,39 @@
+{
+    "language": "english",
+    "i18n": "en",
+    "ns": "base",
+    "translation": {
+        "title": "Our Team",
+        "person_1": {
+            "post": "Founder",
+            "name": "Gleb Doykhen",
+            "description": "Aspiring billionaire, future founder of digital gaming empire. PPE at Warwick University. Leisurely poet, artist, music producer and philosopher."   
+        },
+        "person_2": {
+            "post": "Founder",
+            "name": "Saveliy Elisov",
+            "description": "Visionary, philosopher, philanthropist, and aspiring Physics Nobel prize winner. Ten years of experience in running small businesses."   
+        },
+        "person_3": {
+            "post": "CTO",
+            "name": "Dmitry Elisov",
+            "description": "MIPT graduate, ex co-founder & CTO of 7 startups, former chief software architect of enterprise-scale software used by BMW, Apple, Allianz, etc"   
+        },
+        "person_4": {
+            "post": "CFO",
+            "name": "Nikolay Elisov",
+            "description": "MIPT graduate, engineer- mathematician; investor and entrepreneur, realized more than 50 projects during the last 20 years, sold ready-made businesses for more than $75m"   
+        },
+
+        "person_5": {
+            "post": "Project Manager",
+            "name": "Polina Khudyakova",
+            "description": "MAI graduate. ex-PR manager Lenovo, Avast, Kyocera, Hypefactory"   
+        },
+        "person_6": {
+            "post": "CMO",
+            "name": "Saveliy Lenivin",
+            "description": "California State University, Northridge graduate. Bachelor degree of Higher School of Economics, business and marketing. Managed $1m/year ad campaigns"   
+        }
+    }
+}

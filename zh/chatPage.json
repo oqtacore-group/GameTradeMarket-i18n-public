@@ -1,0 +1,9 @@
+{
+    "language": "english",
+    "i18n": "en",
+    "ns": "base",
+    "translation": {
+      "typeSomethins": "Type something to send...",
+      "youHaveNoMessage": "You have no message yet"
+    }
+  }

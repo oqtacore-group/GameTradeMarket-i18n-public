@@ -1,0 +1,69 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "levels": "out of",
+    "properties": "have this trait",
+    "developer": {
+      "title": "Developer's blog",
+      "subTitle": "All events & announcements"
+    },
+    "gameSlide" : {
+      "explore" : "Explore"
+    },
+    "noDataAvailable": "no data available",
+    "showMore": "Show more",
+    "event": {
+      "sold": "Sold",
+      "seconds": "seconds",
+      "min": "min",
+      "secAgo": "sec ago",
+      "ago": "ago",
+      "secondsAgo": "seconds ago",
+      "from": "from",
+      "was": "was",
+      "to": "to",
+      "for": "for"
+    },
+    "visit": {
+      "neverVisit": "Never visit",
+      "lastVisit": "Last visit",
+      "ago": "ago",
+      "minute": "minute",
+      "minutes": "minutes",
+      "hour": "hour",
+      "hours": "hours",
+      "day": "day",
+      "days": "days",
+      "month": "month",
+      "months": "months",
+      "year": "year",
+      "years": "years"
+    },
+    "notifications": "Notifications",
+    "noNewNotifications": "No new notifications",
+    "allIncomingRequests": "All incoming requests",
+    "accept": "Accept",
+    "decline": "Decline",
+    "allOutgoingRequests": "All outgoing requests",
+    "sendMessage": "Send message",
+    "goToChat": "Go to chat",
+    "markAsRead": "Mark as read",
+    "viewItem": "View item",
+    "sorting": {
+      "recentlyAdded": "Recently added",
+      "priceLowToHigh": "Price: Low to High",
+      "priceHighToLow": "Price: High to Low",
+      "auctionEnding": "Auction ending soon",
+      "ratingLowToHigh": "Rating: Low to High",
+      "ratingHighToLow": "Rating: High to Low"
+    },
+    "breadCrumbs": {
+      "games": "Games",
+      "noName": "No name"
+    },
+    "cookies": "This website uses cookies to enhance the user experience",
+    "acceptCookies": "Accept cookies"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "people": "People",
+    "users": "users",
+    "filterPeople": "Filter people",
+    "online": "online",
+    "item": "item",
+    "noItems": "No items",
+    "requestSent": "Request sent",
+    "cancelRequest": "Cancel request",
+    "sendMessage": "Send message",
+    "addToFriends": "Add to friends"
+  }
+}

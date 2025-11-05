@@ -1,0 +1,158 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "head": {
+      "description": "Discover, buy, sell and trade in-game NFTs. GameTrade is a specialized and convenient marketplace for trading virtual in-game NFTs."
+    },
+    "menu": {
+      "signIn": "Sign in",
+      "signUp": "Sign Up",
+      "logOut": "Log out",
+      "marketplace": "Marketplace",
+      "games": "Games",
+      "eventCalendar": "Event Calendar",
+      "roadmap": "Roadmap",
+      "people": "People",
+      "howItWorks": "How it works",
+      "changelog": "Changelog",
+      "friends": "Friends",
+      "profile": "Profile",
+      "account": "Account",
+      "about": "About",
+      "chat": "Chat",
+      "team": "Team",
+      "help": "Help"
+    },
+    "subscribe": {
+      "placeholder": "Your e-mail address",
+      "button": "Subscribe"
+    },
+    "footer": {
+      "joinTheCommunity": "Join the community",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "description": "Join our mailing list to stay in the loop with our newest feature releases, NFT\n                drops, and tips and tricks for navigating GameTrade."
+    },
+    "search": {
+      "search": "Search",
+      "searchGame": "Search game",
+      "notFound": "There is no such game"
+    },
+    "modalWindow": {
+      "logIn": {
+        "headline": "Log in to GameTrade",
+        "google": "Log in with Google",
+        "or": "or",
+        "mail": "E-mail",
+        "password": "Password",
+        "remember": "Remember me",
+        "forgot": "Forgot your password",
+        "errorPassword": "Invalid login or password",
+        "haveAccount": "Dont have an account?",
+        "register": "Register",
+        "logIn": "Log in"
+      },
+      "signUp": {
+        "headline": "Sign up to GameTrade",
+        "sentCode": {
+          "part_1": "An email has been sent to ",
+          "part_2": "with a code to verify your account. You must verify your account to be able to log in"
+        },
+        "continue": "Continue",
+        "google": "Sign up with Google",
+        "or": "or",
+        "mail": "E-mail",
+        "password": "Password",
+        "accept": "Accept the",
+        "agreement": "agreement",
+        "code": "Promo code",
+        "signUp": "Sign up",
+        "member": "Already a member?",
+        "logIn": "Log in"
+      },
+      "verify": {
+        "accountHasBeen": "Your account has been",
+        "successfully": "Successfully verified",
+        "error": "Verification error.",
+        "done": "Done",
+        "pleaseTryAgain": "Please try again",
+        "tryAgain": "Try again",
+        "signUp": "Sign up to GameTrade",
+        "enterCode": "Enter the code that we sent you by email",
+        "errorCodeMessage": "Code cannot be less than 6 or exceed 6 characters",
+        "invalid": "Invalid email or code",
+        "verify": "Verify",
+        "completed": "Сompleted. Verification code entered"
+      },
+      "reset": {
+        "thePassword": "The password",
+        "beenReset": "has been reset",
+        "nowUse": "You can now use the new password to log into your account",
+        "done": "Done",
+        "yourPassword": "Your password",
+        "notBeenReset": "has not been reset",
+        "errorTryAgain": "An error occurred while changing the password. Please try again",
+        "tryAgain": "Try again",
+        "enterCode": "Enter the code that we sent you by email",
+        "eightCharacters": "Your password must be at least eight characters and",
+        "matchMail": "cannot contain spaces or match e-mail address",
+        "newPassword": "New password",
+        "confirmPassword": "Confirm new password",
+        "passwordMismatch": "Password mismatch",
+        "codeCannot": "Code cannot be less than 6 or exceed 6 characters",
+        "firstPassword": "First password field",
+        "secondPassword": "Second password field",
+        "restorePassword": "Restore my password"
+      },
+      "restore": {
+        "headline": "Restore password",
+        "description": "Please enter the e-mail address you used to create your GameTrade account, and we will\n              send you a link to reset your password.",
+        "mail": "E-mail",
+        "continue": "Continue",
+        "receive": "Did not receive the link?"
+      }
+    },
+    "metamaskNotInstalled": "The Metamask application is not installed. To buy or sell an item, please install Metamask on your device",
+    "metamaskConnect": "Metamask automatic connection. If Metamask does not open automatically, please open it yourself",
+    "please": "Please",
+    "loginOrReg": "login or register",
+    "workWithToken": "to work with the token",
+    "networkChange": "Network Change. If metamask does not open automatically, please open it",
+    "youHave": "You have canceled the automatic network change. Please switch the network yourself to",
+    "networkId": "network id:",
+    "itemIsNotApproved": "Item is not approved",
+    "approvedTheToken": "You have successfully approved the token on the platform.",
+    "itemIsNotApproved2": "Item is not approved. To set price you need to approve your token first",
+    "bidding": "The bidding was successful. Please, if the data has not been updated press",
+    "refresh": "refresh",
+    "purchase": "The purchase was a success! Please, if the owner and the price were not automatically updated, use the",
+    "button": "button - this will help synchronize the data",
+    "changeWallet": "Please change active wallet in Metamask to the one that owns the item if you want to set the price",
+    "addWallet": "Add your first wallet on the page",
+    "myAccount": "'My Account'",
+    "afterAddingWallet": ". After adding a wallet, refresh this page",
+    "thisWallet": "This wallet is not connected",
+    "addNewWallet": "Add your new wallet on the",
+    "page": "page. After adding a wallet, refresh this page",
+    "sorry": "Sorry, we don't know what happened. Please let us know in support the scenario of the error received.",
+    "install": "Please install metamask",
+    "dontSupport": "Sorry. We do not yet support this network or token",
+    "justPurchase": "The token has just been purchased",
+    "justPurchase2": "Sorry. The token has just been purchased",
+    "errors": {
+      "passwordFieldIsRequired": "Password field is required",
+      "passwordCannotBeLess": "Password cannot be less than 8 characters",
+      "passwordCannotExceed": "Password cannot exceed 99 characters",
+      "PasswordWillNotHaveSpaces": "The password will not have spaces",
+      "emailFieldIsRequired": "Email field is required",
+      "invalidEmail": "Invalid email",
+      "codeCannotBeLess": "Code cannot be less than 6 characters",
+      "codeCannotExceed": "Code cannot exceed 6 characters",
+      "codeCannotBeLessThan8": "Code cannot be less than 8 characters",
+      "codeCannotExceed8": "Code cannot exceed 8 characters",
+      "pleaseAccept": "Please accept the agreement before proceeding!"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "language": "english",
+  "i18n": "en",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "games": "Games",
+      "noName": "No name"
+    },
+    "admitted": "Admitted to trading",
+    "about": "About this game",
+    "description": {
+      "publisher": "Publisher",
+      "developer": "Developer",
+      "releaseDate": "Release date",
+      "rating": "Rating",
+      "genres": "Genres",
+      "itemsOnSale": "Number of items on sale",
+      "floorPrice": "Floor price",
+      "tx7d": "Transactions 7d",
+      "tx30d": "Transactions 30d",
+      "uaw7d": "UAW 7d",
+      "uaw30d": "UAW 30d",
+      "play": "Play",
+      "shopItems": "Show items",
+      "contracts": "Contracts"
+    },
+    "buying": {
+      "description": "This game has its own game currency called",
+      "buyText": "To buy many game items, you would need to pay with",
+      "buy": "Buy"
+    },
+    "blog": {
+      "title": "Developer's blog",
+      "subTitle": "Recent events & announcements",
+      "view": "View all"
+    },
+    "carousel": {
+      "title": "Items from this game",
+      "subTitle": "Recent items added to GameTrade",
+      "view": "View all"
+    },
+    "reviews": {
+      "title": "Most helpful reviews",
+      "subTitle": "In the past 30 days",
+      "noReviews": "No reviews yet",
+      "write": "Write a review",
+      "addReview": "Add a review as",
+      "post": "Post",
+      "rateGame": "Please, rate the game",
+      "choiceRating": "Choice rating required",
+      "rateNumber": {
+        "highlyNotRecommended": "1 – Highly not recommended",
+        "notRecommended": "2 – Not recommended",
+        "neutral": "3 – Neutral",
+        "recommended": "4 – Recommended",
+        "highlyRecommended": "5 – Highly recommended"
+      },
+      "delete": "Message deleted successfully",
+      "wantDelete": "Are you sure you want to delete the review?",
+      "yes": "Yes",
+      "no": "No",
+      "review": "review",
+      "reviews": "reviews",
+      "posted": "Posted:",
+      "rateText": {
+        "highlyNotRecommended": "Highly not recommended",
+        "notRecommended": "Not recommended",
+        "neutral": "Neutral",
+        "recommended": "Recommended",
+        "highlyRecommended": "Highly recommended"
+      },
+      "save": "Save",
+      "cancel": "Cancel"
+    }
+  }
+}
