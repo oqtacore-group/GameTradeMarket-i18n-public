@@ -1,17 +1,17 @@
 {
-  "language": "english",
-  "i18n": "en",
+  "language": "chinese",
+  "i18n": "zh",
   "ns": "base",
   "translation": {
-    "people": "People",
-    "users": "users",
-    "filterPeople": "Filter people",
-    "online": "online",
-    "item": "item",
-    "noItems": "No items",
-    "requestSent": "Request sent",
-    "cancelRequest": "Cancel request",
-    "sendMessage": "Send message",
-    "addToFriends": "Add to friends"
+    "people": "用户",
+    "users": "位用户",
+    "filterPeople": "筛选用户",
+    "online": "在线",
+    "item": "物品",
+    "noItems": "暂无物品",
+    "requestSent": "请求已发送",
+    "cancelRequest": "取消请求",
+    "sendMessage": "发送消息",
+    "addToFriends": "添加好友"
   }
 }
