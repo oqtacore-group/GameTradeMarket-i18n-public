@@ -1,31 +1,31 @@
 {
-    "language": "english",
-    "i18n": "en",
-    "ns": "base",
-    "translation": {
-        "headline": "Changelog",
-        "label_1": "v. 1.5",
-        "date_1": "03.11.2022",
-        "content_1": {
-            "text_1": "Changelog page created;",
-            "text_2": "Added the ability to purchase in-game currency;",
-            "text_3": "Added the ability to set tokens for in-game currency;",
-            "text_4": "Added the ability to buy items for in-game currency;",
-            "text_5": "Other bug fixes and website speed optimization;"
-        },
-        "label_2": "v. 1.6",
-        "date_2": "8.12.2022",
-        "content_2": {
-            "text_1": "Changed the main page of the site;",
-            "text_2": "Added developer blogs;",
-            "text_3": "SEO optimization;",
-            "text_4": "Other bug fixes and website speed optimization;"
-        },
-        "label_3": "v. 1.7",
-        "date_3": "28.12.2022",
-        "content_3": {
-            "text_1": "WETH to MATIC price converter;",
-            "text_2": "Bug fixes and website speed optimization;"
-        }
+  "language": "chinese",
+  "i18n": "zh",
+  "ns": "base",
+  "translation": {
+    "headline": "更新日志",
+    "label_1": "v. 1.5",
+    "date_1": "03.11.2022",
+    "content_1": {
+      "text_1": "创建了更新日志页面;",
+      "text_2": "增加了购买游戏内货币的功能;",
+      "text_3": "增加了为游戏货币设置代币的功能;",
+      "text_4": "增加了用游戏内货币购买物品的功能;",
+      "text_5": "其他错误修复和网站速度优化;"
+    },
+    "label_2": "v. 1.6",
+    "date_2": "8.12.2022",
+    "content_2": {
+      "text_1": "更改了网站的主页;",
+      "text_2": "增加了开发者博客;",
+      "text_3": "SEO 优化;",
+      "text_4": "其他错误修复和网站速度优化;"
+    },
+    "label_3": "v. 1.7",
+    "date_3": "28.12.2022",
+    "content_3": {
+      "text_1": "WETH 到 MATIC 价格转换器;",
+      "text_2": "错误修复和网站速度优化;"
     }
+  }
 }
