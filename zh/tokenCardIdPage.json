@@ -1,49 +1,49 @@
 {
-  "language": "english",
-  "i18n": "en",
+  "language": "chinese_simplified",
+  "i18n": "zh",
   "ns": "base",
   "translation": {
     "breadCrumbs": {
-      "marketplace": "Marketplace",
-      "noName": "No name"
+      "marketplace": "交易市场",
+      "noName": "无名称"
     },
     "buttons": {
-      "setThePrice": "Set the price",
-      "approveToken": "Approve token",
-      "buy": "Buy"
+      "setThePrice": "设置价格",
+      "approveToken": "授权代币",
+      "buy": "购买"
     },
     "description": {
-      "refreshData": "Refresh data",
-      "noInformation": "no information available",
-      "ownedBy": "Owned by:",
-      "description": "Description"
+      "refreshData": "刷新数据",
+      "noInformation": "暂无信息",
+      "ownedBy": "持有者：",
+      "description": "描述"
     },
     "setThePrice": {
-      "pleaseSelect": "Please select the coin for which you would like to sell",
-      "setThePrice": "Set the price:",
-      "sell": "Sell",
-      "onlySixDecimal": "Only 6 decimal places"
+      "pleaseSelect": "请选择您希望出售所用的币种",
+      "setThePrice": "设置价格：",
+      "sell": "出售",
+      "onlySixDecimal": "仅限 6 位小数"
     },
     "approve": {
       "title": {
         "needHave": {
-          "part_1": "Before buying the token, you have to allow the GameTrade's trade smart contract\n                    to deduct",
-          "part_2": "from your wallet"
+          "part_1": "在购买代币之前，您需要允许 GameTrade 的交易智能合约\n                    从您的钱包中扣除",
+          "part_2": "相应金额。"
         },
-        "youHave": "You have enough funds allowed for spending by the GameTrade's trade smart\n                    contract and can immediately proceed to buying the token"
+        "youHave": "您已授权足够额度供 GameTrade 的交易智能合约使用，\n                    现在可以直接购买该代币。"
       },
-      "then": "then",
-      "buy": "Buy",
+      "then": "然后",
+      "buy": "购买",
       "txCompleted": {
-        "part_1": "Transaction completed.",
-        "part_2": "The token is now yours!"
+        "part_1": "交易已完成。",
+        "part_2": "该代币现在属于您！"
       }
     },
-    "levels": "levels",
-    "properties": "properties",
-    "moreCollection": "more from this collection",
+    "levels": "等级",
+    "properties": "属性",
+    "moreCollection": "此系列的更多内容",
     "marketplace": {
-      "buy": "Buy"
+      "buy": "购买"
     }
   }
 }
