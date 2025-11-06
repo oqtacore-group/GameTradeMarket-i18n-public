@@ -1,39 +1,38 @@
 {
-    "language": "english",
-    "i18n": "en",
+    "language": "chinese_simplified",
+    "i18n": "zh",
     "ns": "base",
     "translation": {
-        "title": "Our Team",
+        "title": "我们的团队",
         "person_1": {
-            "post": "Founder",
+            "post": "创始人",
             "name": "Gleb Doykhen",
-            "description": "Aspiring billionaire, future founder of digital gaming empire. PPE at Warwick University. Leisurely poet, artist, music producer and philosopher."   
+            "description": "立志成为亿万富翁，未来数字游戏帝国的缔造者。毕业于华威大学 PPE 专业。闲暇时是诗人、艺术家、音乐制作人兼哲学思考者。"
         },
         "person_2": {
-            "post": "Founder",
+            "post": "创始人",
             "name": "Saveliy Elisov",
-            "description": "Visionary, philosopher, philanthropist, and aspiring Physics Nobel prize winner. Ten years of experience in running small businesses."   
+            "description": "有远见的思想家、哲学家与慈善家，立志获得诺贝尔物理学奖。拥有十年小型企业管理经验。"
         },
         "person_3": {
-            "post": "CTO",
+            "post": "首席技术官（CTO）",
             "name": "Dmitry Elisov",
-            "description": "MIPT graduate, ex co-founder & CTO of 7 startups, former chief software architect of enterprise-scale software used by BMW, Apple, Allianz, etc"   
+            "description": "莫斯科物理技术学院（MIPT）毕业。曾任七家初创公司的联合创始人兼首席技术官，前企业级软件首席架构师，其作品被 BMW、Apple、Allianz 等国际公司采用。"
         },
         "person_4": {
-            "post": "CFO",
+            "post": "首席财务官（CFO）",
             "name": "Nikolay Elisov",
-            "description": "MIPT graduate, engineer- mathematician; investor and entrepreneur, realized more than 50 projects during the last 20 years, sold ready-made businesses for more than $75m"   
+            "description": "莫斯科物理技术学院（MIPT）毕业，工程数学家、投资人和企业家。在过去 20 年中完成超过 50 个项目，并成功出售企业，累计交易额超过 7500 万美元。"
         },
-
         "person_5": {
-            "post": "Project Manager",
+            "post": "项目经理",
             "name": "Polina Khudyakova",
-            "description": "MAI graduate. ex-PR manager Lenovo, Avast, Kyocera, Hypefactory"   
+            "description": "莫斯科航空学院（MAI）毕业。曾任联想、Avast、京瓷（Kyocera）、Hypefactory 公关经理。"
         },
         "person_6": {
-            "post": "CMO",
+            "post": "首席营销官（CMO）",
             "name": "Saveliy Lenivin",
-            "description": "California State University, Northridge graduate. Bachelor degree of Higher School of Economics, business and marketing. Managed $1m/year ad campaigns"   
+            "description": "加州州立大学北岭分校毕业，曾就读于高等经济学院（HSE）商业与市场营销专业。管理过年预算达 100 万美元的广告项目。"
         }
     }
 }
