@@ -1,166 +1,158 @@
 {
-    "language": "english",
-    "i18n": "en",
+    "language": "chinese_simplified",
+    "i18n": "zh",
     "ns": "base",
     "translation": {
-        "title": "Privacy Policy",
-        "lastRevised": "Last Revised: April 7, 2021",
-        "subRevised": "GameTrade SA ('GameTrade ,' 'we' or 'us') is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at https://gametrade.market (the 'Site') and online services (collectively, the 'Service').",
+        "title": "隐私政策",
+        "lastRevised": "最后更新日期：2021年4月7日",
+        "subRevised": "GameTrade SA（以下简称“GameTrade”、“我们”或“本公司”）致力于保护您的隐私。我们制定本隐私政策，旨在向您说明我们如何收集、使用和保护来自使用我们网站 https://gametrade.market（以下简称“网站”）及在线服务（统称为“服务”）的用户的个人数据（定义如下）。",
         "paragraph_1": {
             "paragraphNumber_1": "1.",
-            "paragraphText_1": "Types of Data We Collect.",
-            "subParagraph_1": "“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data, including aggregated and de-identified data, that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.",
+            "paragraphText_1": "我们收集的数据类型",
+            "subParagraph_1": "“个人数据”是指可用于识别或联系您的信息，例如您的姓名、地址、电话号码、电子邮件地址，以及与这些信息相关或关联的任何非公开信息。“匿名数据”是指无法与您的个人数据关联的数据，包括汇总或去标识化的数据；匿名数据本身无法识别个人身份。我们根据以下描述收集个人数据和匿名数据。",
             "text_1": {
                 "number_1": "1.",
-                "text_1": "Information You Provide Us.",
-                "subText_1": "We may collect Personal Data from you, such as your first and last name, e-mail and mailing addresses, Ethereum address, and GameTrade password when you create an account to log in to our network («Account»).",
-                "subText_2": "If you use our Services on your mobile device, we may collect your phone number and the unique device id number.",
-                "subText_3": "Our Service lets you store preferences like how your content is displayed, your location, safe search settings, notification settings, and favorite widgets. We may associate these choices with your ID, browser or mobile device, and you can edit these preferences at any time.",
-                "subText_4": "When connecting to our Services via a service provider that uniquely identifies your mobile device, we may receive this identification and use it to offer extended services and/or functionality.",
-                "subText_5": "Certain Services, such as two-factor authentication, may require our collection of your phone number. We may associate that phone number to your mobile device identification information.",
-                "subText_6": "If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.",
-                "subText_7": "We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, Ethereum address, and other requested information if you contact us via e-mail regarding support for the Services.",
-                "subText_8": "We may also collect Personal Data at other points in our Service that state that Personal Data is being collected."
+                "text_1": "您提供给我们的信息",
+                "subText_1": "当您创建账户（“账户”）以登录我们的网络时，我们可能会收集您的个人数据，如名字、姓氏、电子邮箱、邮寄地址、以太坊地址及 GameTrade 密码。",
+                "subText_2": "如果您通过移动设备使用我们的服务，我们可能会收集您的电话号码和设备唯一识别码。",
+                "subText_3": "我们的服务允许您保存偏好设置，例如内容显示方式、位置、安全搜索、通知设置和收藏组件。我们可能会将这些偏好与您的账户、浏览器或设备关联，您可随时修改。",
+                "subText_4": "当您通过可唯一识别移动设备的服务提供商连接我们的服务时，我们可能会接收该识别信息，以提供扩展服务或附加功能。",
+                "subText_5": "某些服务（如双重身份验证）可能需要收集您的电话号码。我们可能会将该号码与设备识别信息关联。",
+                "subText_6": "如果您通过电子邮件提供反馈或联系我们，我们将收集您的姓名、电子邮箱及邮件内容，以便回复您。",
+                "subText_7": "当您通过电子邮件联系技术支持时，我们可能会收集您自愿提供的其他个人数据，如操作系统及版本、产品注册号、以太坊地址及其他必要信息。",
+                "subText_8": "在我们的服务中，凡明确说明会收集个人数据的环节，我们也可能在该处收集您的信息。"
             },
             "text_2": {
                 "number_1": "2.",
-                "text_1": "Information Collected via Technology.",
-                "text_1_1": "As you navigate through and interact with our Service, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:",
-                "subText_1": "Information Collected by Our Servers. To make our Service more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol («IP») address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, Ethereum address, wallet type, and/or a date/time stamp for your visit.",
-                "subText_2": "Log Files. As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider («ISP»), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Service, track users’ movements around the Service, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs. For example, some of the information may be collected so that when you visit the Service, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests.",
-                "subText_3": "Cookies. Like many online services, we use cookies to collect information. «Cookies» are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Service. This type of information is collected to make the Service more useful to you and to tailor the experience with us to meet your special interests and needs.",
-                "subText_4": "Pixel Tag. In addition, we use «Pixel Tags» (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to Cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to a user. We do not tie the information gathered by Pixel Tags to our users’ Personal Data.",
-                "subText_5": "How We Respond to Do Not Track Signals. We do not currently respond to «do not track» signals or other mechanisms that might enable Users to opt out of tracking on our site.",
-                "subText_6": "Analytics Services. In addition to the tracking technologies we place, other companies may set their own cookies or similar tools when you visit our Service. This includes third party analytics services, including but not limited to Google Analytics («Analytics Services»), that we engage to help analyze how users use the Service. We may receive reports based on these parties’ use of these tools on an individual or aggregate basis. We use the information we get from Analytics Services only to improve our Service. The information generated by the Cookies or other technologies about your use of our Service (the «Analytics Information») is transmitted to the Analytics Services. The Analytics Services use Analytics Information to compile reports on user activity. The Analytics Services may also transfer information to third parties where required to do so by law, or where such third parties process Analytics Information on their behalf. Each Analytics Services’ ability to use and share Analytics Information is restricted by such Analytics Services’ Terms of Use and Privacy Policy. By using our Service, you consent to the processing of data about you by Analytics Services in the manner and for the purposes set out above. For a full list of Analytics Services, please contact us at the address given in paragraph (1)."
+                "text_1": "通过技术收集的信息",
+                "text_1_1": "当您浏览和使用我们的服务时，我们可能会使用自动数据收集技术来获取有关您的设备、浏览行为和模式的某些信息，包括：",
+                "subText_1": "服务器收集的信息。为使我们的服务更好地为您提供支持，我们的服务器（可能由第三方托管）会收集您的浏览器类型、操作系统、IP 地址（即每次上网时自动分配给计算机的编号）、域名、以太坊地址、钱包类型以及访问时间戳等信息。",
+                "subText_2": "日志文件。与大多数网站相同，我们会自动收集并保存某些信息到日志文件中，包括 IP 地址、浏览器类型、ISP、来源/退出页面、操作系统、时间戳及点击行为数据。这些信息用于分析趋势、管理服务、跟踪用户活动、汇总用户群体统计信息，并优化服务体验。",
+                "subText_3": "Cookies。与多数在线服务一样，我们使用 Cookies 来收集信息。Cookies 是网站在您浏览时存储在计算机硬盘中的小型数据文件。我们可能使用会话 Cookies（关闭浏览器后失效）和持久 Cookies（需手动删除）来为您提供更个性化的服务体验。",
+                "subText_4": "像素标签。我们还使用像素标签（又称透明 GIF、网络信标或网络错误跟踪）。它们是嵌入网页中的微小图像，用于跟踪用户的在线行为。它们能帮助我们了解电子邮件是否被打开，以确保我们发送的邮件与用户兴趣相关。我们不会将像素标签收集的信息与个人数据关联。",
+                "subText_5": "Do Not Track 信号的响应。我们目前不会响应浏览器的“请勿跟踪”信号或类似机制。",
+                "subText_6": "分析服务。除我们自身的追踪技术外，第三方（如 Google Analytics）也可能设置其 Cookie 或类似工具来分析用户使用情况。我们仅使用分析服务提供的报告来改进我们的服务。通过使用我们的服务，您同意此类分析及数据处理方式。"
             },
             "text_3": {
                 "number_1": "3.",
-                "text_1": "Information Collected from Third Party Companies.",
-                "text_1_1": "We may receive Personal and/or Anonymous Data about you from companies that provide our Services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Service. In particular, MetaMask and other wallets provide us with your Ethereum address and certain other information you choose to share with MetaMask and other wallets. These third party companies may supply us with Personal Data. We may add this to the information we have already collected from you via our Service in order to improve it. We do not collect Personal Data automatically, but we may tie the information that we collect automatically to Personal Data about you that we collect from other sources or that you provide to us."
+                "text_1": "来自第三方公司的信息",
+                "text_1_1": "我们可能从第三方（如提供联合品牌或私有化网站的公司，或在我们平台上提供产品/服务的公司）获取您的个人或匿名数据。例如，MetaMask 或其他钱包可能会提供您的以太坊地址及相关信息。我们可能将这些数据与已收集的信息结合，以改进服务体验。"
             }
         },
         "paragraph_2": {
             "paragraphNumber_2": "2.",
-            "paragraphText_2": "Use of Your Personal Data.",
-            "subParagraph_2": "“Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data, including aggregated and de-identified data, that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.",
+            "paragraphText_2": "个人数据的使用",
+            "subParagraph_2": "除非另有说明，我们使用个人数据来提供服务、改善体验或履行法律义务。以下是我们使用个人数据的方式：",
             "text_1": {
                 "number_1": "1.",
-                "text_1": "General Use.",
-                "text_1_1": "In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:",
-                "subText_1": "facilitate the creation of and secure your Account on our network;",
-                "subText_2": "identify you as a user in our system;",
-                "subText_3": "provide improved administration of our Service;",
-                "subText_4": "provide the Services you request, including but not limited to facilitating your cryptocurrency transactions through MetaMask",
-                "subText_4_4": "or other wallets;",
-                "subText_5": "improve the quality of experience when you interact with our Service;",
-                "subText_6": "send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;",
-                "subText_7": "protect you and other users from any conduct that violates the Terms of Use or to prevent abuse or harassment  of any user;",
-                "subText_8": "display your username next to the digital assets you wish to sell on the Website;",
-                "subText_9": "send you administrative e-mail notifications, such as security or support and maintenance advisories;",
-                "subText_10": "send you e-mail notifications related to actions on Service, including notifications of offers on your digital assets;",
-                "subText_11": "respond to your inquiries related to employment opportunities or other requests;",
-                "subText_12": "make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback;",
-                "subText_13": "in any other way we may describe when you provide the Personal Data; and",
-                "subText_14": "send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of GameTrade",
-                "number_2": "2.",
-                "text_2": "We may use your Personal Data to contact you about our own and third parties’ goods and services that may be of interest to you.",
-                "number_3": "3.",
-                "text_3": "General Use.Anonymous Data.",
-                "text_3_1": "We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Service navigation. We reserve the right to use Anonymous Data for any purpose and to disclose Anonymous Data to third parties without restriction."
+                "text_1": "一般用途",
+                "text_1_1": "我们可能会使用您的个人数据来：",
+                "subText_1": "创建并保护您的账户；",
+                "subText_2": "识别您在系统中的用户身份；",
+                "subText_3": "改进服务管理；",
+                "subText_4": "提供您所请求的服务，包括通过 MetaMask 或其他钱包进行加密货币交易；",
+                "subText_5": "提升您与我们互动时的体验质量；",
+                "subText_6": "向您发送欢迎邮件以验证账户电子邮箱；",
+                "subText_7": "防止违反使用条款的行为或滥用；",
+                "subText_8": "在网站上显示您出售数字资产时的用户名；",
+                "subText_9": "发送安全及维护相关通知；",
+                "subText_10": "通知您与数字资产交易相关的活动；",
+                "subText_11": "回应您的咨询或招聘请求；",
+                "subText_12": "在防欺诈或反馈过程中与您联系；",
+                "subText_13": "以及其他提供或改进服务的合理用途；",
+                "subText_14": "向您发送与服务相关的营销邮件、调查或优惠活动。"
             }
         },
         "paragraph_3": {
             "paragraphNumber_3": "3.",
-            "paragraphText_3": "Disclosure of Your Personal Data.",
-            "subParagraph_3": "We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.",
+            "paragraphText_3": "个人数据的披露",
+            "subParagraph_3": "我们仅在以下情况下披露您的个人数据：",
             "text_1": {
                 "number_1": "1.",
-                "text_1": "Third Party Service Providers. ",
-                "text_1_1": "We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Service; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to the GameTrade",
+                "text_1": "第三方服务提供商",
+                "text_1_1": "为提供技术支持、账户创建、质量测试或其他相关服务，我们可能会与第三方服务提供商共享您的个人数据。",
                 "number_2": "2.",
-                "text_2": "Affiliates. ",
-                "text_2_1": "We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.",
+                "text_2": "关联公司",
+                "text_2_1": "我们可能会与母公司、子公司或同一控制下的关联公司共享个人数据，并要求其遵守本隐私政策。",
                 "number_3": "3.",
-                "text_3": "Corporate Restructuring. ",
-                "text_3_1": "We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all  or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess  the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.",
+                "text_3": "公司重组",
+                "text_3_1": "在并购、融资、出售、破产等过程中，我们可能会转让个人数据给接收方，以履行合法的交易义务。",
                 "number_4": "4.",
-                "text_4": "As Legally Required. ",
-                "text_4_1": "Regardless of any choices you make regarding your Personal Data (as described below), GameTrade may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on GameTrade; (c) to protect or defend the rights or property of GameTrade or users of the Service; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.",
+                "text_4": "法律要求",
+                "text_4_1": "如我们真诚地认为披露数据是为了遵守法律、应对传票、保护公司或用户权益、防止违法行为等目的所必需，我们可能会披露您的个人数据。",
                 "number_5": "5.",
-                "text_5": "Other Disclosures. ",
-                "text_5_1": "We may also disclose your Personal Data, to fulfill the purpose for which you provide it; for any other purpose disclosed by us when you provide it; or with your consent. We do not sell your Personal Data."
+                "text_5": "其他披露",
+                "text_5_1": "在获得您的同意后，或为实现您提供信息的目的，我们可能披露您的数据。我们不会出售您的个人数据。"
             }
         },
         "paragraph_4": {
             "paragraphNumber_4": "4.",
-            "paragraphText_4": "Third Party Websites. ",
-            "subParagraph_4": "Our Service may contain links to third party websites. When you click on a link to any other website or location, you will leave our Service and go to another site, and another entity may collect Personal Data or Anonymous Data from you. You may also find marketplaces powered by the Service on other websites. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your Personal Data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content or websites."
+            "paragraphText_4": "第三方网站",
+            "subParagraph_4": "我们的服务可能包含第三方网站链接。点击这些链接将离开本网站并进入他方网站，我们无法控制或负责这些网站的内容及隐私实践。建议您仔细阅读每个访问网站的隐私政策。"
         },
         "paragraph_5": {
             "paragraphNumber_5": "5.",
-            "paragraphText_5": "Third-Party Wallet Extensions. ",
-            "subParagraph_5": "For conducting cryptocurrency transactions we use third-party electronic wallet extensions such as (but not limited to) MetaMask; your interactions with MetaMask and/or any third-party electronic wallet extensions are governed by the applicable privacy policies. In the case of MetaMask, its privacy policy is available here."
+            "paragraphText_5": "第三方钱包扩展",
+            "subParagraph_5": "为进行加密货币交易，我们使用第三方电子钱包扩展（如 MetaMask）。您与这些钱包的交互受其各自隐私政策约束。MetaMask 的隐私政策可在其官网查看。"
         },
         "paragraph_6": {
             "paragraphNumber_6": "6.",
-            "paragraphText_6": "Your Choices Regarding Information. ",
-            "subParagraph_6": "You have several choices regarding the use of information on our Services:",
+            "paragraphText_6": "您的信息选择权",
+            "subParagraph_6": "您在我们的服务中拥有以下信息控制权：",
             "text_1": {
                 "number_1": "1.",
-                "text_1": "Email Communications. ",
-                "text_1_1": "We will periodically send you free, opt-in newsletters and e-mails that directly promote the use of our Service. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information in paragraph (1)). Despite your indicated e-mail preferences, we may send you occasional service related communications, including notices of updates to our Terms of Use or Privacy Policy.",
-                "number_2": "2.",
-                "text_2": "We will periodically send you free, opt-in newsletters and e-mails that directly promote the use of our Service. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information in paragraph (1)). Despite your indicated e-mail preferences, we may send you occasional service related communications, including notices of updates to our Terms of Use or Privacy Policy."
+                "text_1": "电子邮件通信",
+                "text_1_1": "我们可能不定期发送与服务相关的电子邮件和新闻简报。您可通过邮件中的退订链接或联系我们来选择退出营销通信。我们仍可能向您发送重要的服务通知（例如隐私政策更新）。"
             }
         },
         "paragraph_7": {
             "paragraphNumber_7": "7.",
-            "paragraphText_7": "Data Access and Control. ",
-            "subParagraph_7": "You can view, access, edit, or delete your personal data for many aspects of the Service via your My Account page. You can also make choices about GameTrade’s use of your data. You can always choose whether you want to receive marketing communications from us. You can also opt out from receiving marketing communications from us by using the opt-out link on the communication, or by visiting your account settings page. We may retain an archived copy of your records as required by law or for legitimate business purposes.",
+            "paragraphText_7": "数据访问与控制",
+            "subParagraph_7": "您可以通过“我的账户”页面查看、修改或删除您的个人数据，并可随时选择是否接收我们的营销信息。我们可能会根据法律要求保留数据备份副本。",
             "text_1": {
                 "number_1": "1.",
-                "text_1": "Data Access.",
-                "text_1_1": "You can access your Personal Data on your My Account page.",
+                "text_1": "数据访问",
+                "text_1_1": "您可在账户页面访问个人数据。",
                 "number_2": "2.",
-                "text_2": "Data Portability. ",
-                "text_2_1": "You can request a copy of your Personal Data by contacting us and including 'Please send me my Personal Data' in the subject line. GameTrade will verify your ability to access that email, then send you a digital export of the data we hold that is associated with your email address. We will use reasonable efforts to respond to your request within 7 days, but in all events within 28 days of our receipt of the request.",
+                "text_2": "数据可携性",
+                "text_2_1": "您可通过发送主题为“请发送我的个人数据”的邮件来申请导出您的数据。我们将在7至28天内处理请求。",
                 "number_3": "3.",
-                "text_3": "Data Erasure. ",
-                "text_3_1": "You can delete your Personal Data on your My Account page. Alternatively, you may request that GameTrade delete your personal data by contacting us and including 'Please delete my Personal Data' in the subject line. GameTrade will verify your ability to access that email, then delete the Personal Data associated with your email address. We will use reasonable efforts to respond to your request within 7 days, but in all events within 28 days of our receipt of the request.",
+                "text_3": "数据删除",
+                "text_3_1": "您可在账户中删除数据，或通过发送主题为“请删除我的个人数据”的邮件申请删除。我们将在7至28天内处理请求。",
                 "number_4": "4.",
-                "text_4": "Data Correction.",
-                "text_4_1": "You can modify your Personal Data on your My Account page."
+                "text_4": "数据更正",
+                "text_4_1": "您可随时在账户页面修改个人数据。"
             }
         },
         "paragraph_8": {
             "paragraphNumber_8": "8.",
-            "paragraphText_8": "Data Retention. ",
-            "subParagraph_8": "We may retain your Personal Data as long as you continue to use the Service, have an account with us, or for as long as is necessary to fulfill the purposes outlined in this Privacy Policy. You can ask to close your account by contacting us as described above, and we will delete your Personal Data on request. We may, however, retain Personal Data for an additional period as is permitted or required under applicable laws, for legal, tax, or regulatory reasons, or for legitimate and lawful business purposes"
+            "paragraphText_8": "数据保留",
+            "subParagraph_8": "我们将在您使用服务期间或法律要求的时间内保留个人数据，以履行合法目的。法律或监管要求允许的情况下，我们可能保留部分数据以符合法律或商业需求。"
         },
         "paragraph_9": {
             "paragraphNumber_9": "9.",
-            "paragraphText_9": "Data Protection. ",
-            "subParagraph_9": "We care about the security of your information and use physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through our website. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations."
+            "paragraphText_9": "数据安全",
+            "subParagraph_9": "我们采取物理、管理和技术措施以保护您的信息安全。但任何系统都无法做到绝对安全。如发生数据泄露事件，我们将依法调查并在必要时通知受影响用户。"
         },
         "paragraph_10": {
             "paragraphNumber_10": "10.",
-            "paragraphText_10": "A Note About Children. ",
-            "subParagraph_10": "We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to OpenSea and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at the address indicated in Section 1 above."
+            "paragraphText_10": "关于儿童的说明",
+            "subParagraph_10": "我们不会主动收集13岁以下儿童的个人数据。如发现误收此类信息，我们将尽快删除。如您认为我们持有13岁以下儿童信息，请通过第1节所列地址联系我们。"
         },
         "paragraph_11": {
             "paragraphNumber_11": "11.",
-            "paragraphText_11": "A Note to Users Outside of the United States. ",
-            "subParagraph_11": "If you are a non-U.S. user of the Service, by visiting the Service and providing us with data, you acknowledge and agree that your Personal Data may be processed the purposes identified in the Privacy Policy. In addition, your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your data, you consent to such transfer."
+            "paragraphText_11": "美国境外用户须知",
+            "subParagraph_11": "如果您位于美国以外，使用我们的服务即表示您理解并同意您的个人数据可能在美国或其他国家处理。不同国家的隐私法律可能不尽相同。"
         },
         "paragraph_12": {
             "paragraphNumber_12": "12.",
-            "paragraphText_12": "Changes to This Privacy Policy. ",
-            "subParagraph_12": "This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://gametrade.market/privacy. The date the Privacy Policy was last revised is identified at the beginning of this Privacy Policy. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Service and this Privacy Policy to check for any changes."
+            "paragraphText_12": "隐私政策的变更",
+            "subParagraph_12": "我们可能会不时更新本隐私政策，并在 https://gametrade.market/privacy 公布最新版本。请定期访问以了解变更。"
         },
         "paragraph_13": {
             "paragraphNumber_13": "13.",
-            "paragraphText_13": "Questions; Contacting GameTrade ; Reporting Violations.",
-            "subParagraph_13": "If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address:"
+            "paragraphText_13": "联系与反馈",
+            "subParagraph_13": "如您对本隐私政策或数据处理有任何疑问、意见或投诉，或希望报告安全问题，请通过以下地址与我们联系："
         }
     }
 }
