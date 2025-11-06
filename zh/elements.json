@@ -1,69 +1,69 @@
 {
-  "language": "english",
-  "i18n": "en",
+  "language": "chinese",
+  "i18n": "zh",
   "ns": "base",
   "translation": {
-    "levels": "out of",
-    "properties": "have this trait",
+    "levels": "级，共",
+    "properties": "具有此特征",
     "developer": {
-      "title": "Developer's blog",
-      "subTitle": "All events & announcements"
+      "title": "开发者博客",
+      "subTitle": "所有活动与公告"
     },
-    "gameSlide" : {
-      "explore" : "Explore"
+    "gameSlide": {
+      "explore": "探索"
     },
-    "noDataAvailable": "no data available",
-    "showMore": "Show more",
+    "noDataAvailable": "暂无数据",
+    "showMore": "显示更多",
     "event": {
-      "sold": "Sold",
-      "seconds": "seconds",
-      "min": "min",
-      "secAgo": "sec ago",
-      "ago": "ago",
-      "secondsAgo": "seconds ago",
-      "from": "from",
-      "was": "was",
-      "to": "to",
-      "for": "for"
+      "sold": "已售出",
+      "seconds": "秒",
+      "min": "分钟",
+      "secAgo": "秒前",
+      "ago": "前",
+      "secondsAgo": "几秒前",
+      "from": "从",
+      "was": "为",
+      "to": "到",
+      "for": "以"
     },
     "visit": {
-      "neverVisit": "Never visit",
-      "lastVisit": "Last visit",
-      "ago": "ago",
-      "minute": "minute",
-      "minutes": "minutes",
-      "hour": "hour",
-      "hours": "hours",
-      "day": "day",
-      "days": "days",
-      "month": "month",
-      "months": "months",
-      "year": "year",
-      "years": "years"
+      "neverVisit": "从未访问",
+      "lastVisit": "上次访问",
+      "ago": "前",
+      "minute": "分钟",
+      "minutes": "分钟",
+      "hour": "小时",
+      "hours": "小时",
+      "day": "天",
+      "days": "天",
+      "month": "月",
+      "months": "个月",
+      "year": "年",
+      "years": "年"
     },
-    "notifications": "Notifications",
-    "noNewNotifications": "No new notifications",
-    "allIncomingRequests": "All incoming requests",
-    "accept": "Accept",
-    "decline": "Decline",
-    "allOutgoingRequests": "All outgoing requests",
-    "sendMessage": "Send message",
-    "goToChat": "Go to chat",
-    "markAsRead": "Mark as read",
-    "viewItem": "View item",
+    "notifications": "通知",
+    "noNewNotifications": "暂无新通知",
+    "allIncomingRequests": "所有传入请求",
+    "accept": "接受",
+    "decline": "拒绝",
+    "allOutgoingRequests": "所有发出请求",
+    "sendMessage": "发送消息",
+    "goToChat": "前往聊天",
+    "markAsRead": "标记为已读",
+    "viewItem": "查看物品",
     "sorting": {
-      "recentlyAdded": "Recently added",
-      "priceLowToHigh": "Price: Low to High",
-      "priceHighToLow": "Price: High to Low",
-      "auctionEnding": "Auction ending soon",
-      "ratingLowToHigh": "Rating: Low to High",
-      "ratingHighToLow": "Rating: High to Low"
+      "recentlyAdded": "最近添加",
+      "priceLowToHigh": "价格：从低到高",
+      "priceHighToLow": "价格：从高到低",
+      "auctionEnding": "拍卖即将结束",
+      "ratingLowToHigh": "评分：从低到高",
+      "ratingHighToLow": "评分：从高到低"
     },
     "breadCrumbs": {
-      "games": "Games",
-      "noName": "No name"
+      "games": "游戏",
+      "noName": "无名称"
     },
-    "cookies": "This website uses cookies to enhance the user experience",
-    "acceptCookies": "Accept cookies"
+    "cookies": "本网站使用 Cookie 以提升用户体验",
+    "acceptCookies": "接受 Cookie"
   }
 }
