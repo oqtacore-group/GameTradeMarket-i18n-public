@@ -1,9 +1,9 @@
 {
-    "language": "english",
-    "i18n": "en",
-    "ns": "base",
-    "translation": {
-        "title": "Event Calendar",
-        "subtitle": "GameTrade Market constantly holds tournaments with games, participates in giveaways and makes other type of social activity. Subscribe to this calendar to stay up to date with GameTrade Market's events!"
-    }
+  "language": "chinese",
+  "i18n": "zh",
+  "ns": "base",
+  "translation": {
+    "title": "活动日历",
+    "subtitle": "GameTrade 市场持续举办游戏锦标赛、抽奖活动以及其他形式的社区互动。订阅此日历，随时了解 GameTrade 市场的最新活动！"
+  }
 }
