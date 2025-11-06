@@ -1,54 +1,55 @@
 {
-    "language": "english",
-    "i18n": "en",
-    "ns": "base",
-    "translation": {
-        "head": "How it works",
-        "title": "What is an NFT?",
-        "p1": "NFTs prove ownership of a unique digital asset like art, music, collectibles, videos or anything else with blockchain technology.",
-        "p2": "NFT stands for non-fungible token. That sounds like an intimidating technical term (no more nerd talk, promise!). But NFTs are just digital certificates of authenticity.",
-        "p3": "If you buy a physical painting, you know it’s real because you see the artist’s signature on the canvas. Somebody can photocopy the painting, but they don’t own it — you do. Before NFTs, digital assets were like photocopies:",
-        "p4": "You can see who posted something, but you can’t see who owns an Instagram post, Pinterest Pin or Reddit meme.",
-        "p5": "NFTs are like a signature for digital items: They authenticate ownership of digital assets like art, collectibles, music, videos, in-game assets, and more. Just like physical certificates, they document:",
-        "p6": "Who created it",
-        "p7": "When it was created",
-        "p8": "Who bought it (and when)",
-        "p9": "The price(s) it solds for",
-        "p10": "Who owns it now",
-        "p11": "(Technically, NFTs can contain any data the creator wants to include, but the above are most relevant.)",
-        "p12": "All of this is public via a blockchain, so anyone can trace each of your NFTs from the original creator all the way to your wallet—and verify its authenticity (even the friends who call you crazy for buying a profile picture 😉).",
-        "p13": "But owning digital assets is more than “nice to have”, a fun hobby or a digital stampcollection.",
-        "accordion_1": {
-            "title": "What are Proof of Work (PoW) and Proof of Stake (PoS) blockchains?",
-            "text_1": "We’re almost done with the technical terms, just bear with us for a moment here! These two «consensus mechanisms» are different ways blockchains validate transactions. There are big technical differences, but we promised to spare you the technical talk—so let’s talk about what matters to you.",
-            "text_2": "The main practical differences are:",
-            "text_3": "Proof of Work is extremely secure and decentralized, but consumes high amounts of energy and makes blockchains relatively slow because it relies on miners and their hardware to verify each block. In the case of Ethereum, it can also lead to high fees for buying, selling or minting NFTs.",
-            "text_4": "Proof of Stake blockchains usually have lower fees and higher performance since blocks are published by stakers—the PoS equivalent of miners—who lock up their funds in a smart contract. Because these blockchains are more efficient and no noisy expensive hardware is involved in the process, they also consume way less energy and have a smaller carbon footprint.",
-            "text_5": "As far as how you interact with digital assets, nothing changes between Proof of Work and Proof of Stake blockchains."
-        },
-        "accordion_2": {
-            "title": "What is a wallet? Why do I need one?",
-            "text_1": "Your physical wallet probably contains your money, a form of ID, and maybe pictures of your loved ones (we’ll ignore that 3 year-old Starbuck’s membership card with $1.83 on it).",
-            "text_2": "Your crypto wallet does that on a blockchain. It has an “ID” (a long string of numbers and letters), your cryptocurrencies and any NFTs you bought with those cryptocurrencies. There are a number of wallet providers, including Metamask (the most popular and easy to use), Fortmatic, Coinbase and Rainbow, among others.",
-            "text_3": "When you create a crypto wallet, you get a “seed phrase” — a series of words which let you recover your currencies or NFTs if you lose access.",
-            "text_4": "NEVER GIVE THIS PHRASE TO ANYONE.",
-            "text_4_4": "Anyone who knows your seed phrase has full access to your wallet and can buy, sell or transfer any funds or assets.",
-            "text_5": "To transact with cryptocurrencies or NFTs on GameTrade or anywhere else, you need to connect your wallet to log in."
-        },
-        "accordion_3": {
-            "title": "What makes GameTrade different from other NFT marketplaces?",
-            "text_1": "BTW GameTrade is NOT the only marketplace. Here’s a few reasons you might love GameTrade:",
-            "text_2": "Trade and rent. New possibilities for the in-game NFT economies. Users can trade or rent to each other",
-            "text_3": "Multi-chain: Some marketplaces only work on one blockchain. That means you miss out on NFTs you’d love which exist on other chains.",
-            "text_4": "Friends / networking. Messaging, news feed, referral programs. Great networking capabilities for finding friends and clients.",
-            "text_5": "Game-focused. GTM is an online marketplace like Amazon or eBay. The marketplace is fully focused on game industry, unlike OpenSea or Rarible. Game focus will allow for much closer community",
-            "text_6": "Community. User reputation, game reviews, item reviews, user-generated game guides, commenting functionality"
-        },
-        "contactUs": {
-            "title": "Can’t find your answer?",
-            "description": "Contact us and we’ll get back to you as soon as we can.",
-            "discord": "Discord",
-            "button": "Help center"
-        }
+  "language": "chinese",
+  "i18n": "zh",
+  "ns": "base",
+  "translation": {
+    "head": "运作原理",
+    "title": "什么是 NFT？",
+    "p1": "NFT（非同质化代币）是一种基于区块链技术的独特数字资产凭证，可证明艺术、音乐、收藏品、视频等数字内容的所有权。",
+    "p2": "NFT 是 “Non-Fungible Token” 的缩写。听起来像一个复杂的技术术语（不讲极客术语了，保证！）。其实 NFT 就是数字版的“所有权证书”。",
+    "p3": "当你购买一幅实体画作时，你知道它是真品，因为画布上有艺术家的签名。别人可以复印这幅画，但那只是复制品，真正的所有权属于你。  
+在 NFT 出现之前，数字资产就像这些复印件一样：",
+    "p4": "你能看到是谁发布了帖子，但看不到谁真正拥有 Instagram 帖子、Pinterest Pin 或 Reddit 表情包。",
+    "p5": "NFT 就像数字物品的签名：它为艺术品、收藏品、音乐、视频、游戏内资产等提供所有权认证。就像实体证书一样，它记录以下信息：",
+    "p6": "创作者是谁",
+    "p7": "创作时间",
+    "p8": "购买者是谁（以及购买时间）",
+    "p9": "销售价格",
+    "p10": "当前所有者",
+    "p11": "（技术上讲，NFT 可以包含创作者想加入的任何数据，但以上信息最常见。）",
+    "p12": "所有这些信息都公开存储在区块链上，任何人都可以从原始创作者追踪到你的钱包地址，验证真伪——即使是那些嘲笑你“为头像花钱”的朋友😉。",
+    "p13": "拥有数字资产不仅仅是个兴趣或收藏爱好，它正成为数字世界的新常态。",
+    "accordion_1": {
+      "title": "什么是工作量证明（PoW）和权益证明（PoS）区块链？",
+      "text_1": "马上讲完技术名词了，坚持一下！这两种“共识机制”是区块链验证交易的不同方式。虽然它们在技术层面差异很大，但我们只聊和你有关的重点。",
+      "text_2": "主要区别如下：",
+      "text_3": "工作量证明（PoW）具有极高的安全性和去中心化程度，但能耗大且速度较慢，因为它依赖矿工和硬件来验证区块。例如，在以太坊中，PoW 机制可能导致购买、出售或铸造 NFT 时的高额手续费。",
+      "text_4": "权益证明（PoS）区块链的费用通常更低、性能更高。PoS 由质押者（即“矿工”的等价角色）发布区块，他们将资金锁定在智能合约中。由于效率更高且不依赖噪音大、成本高的硬件，PoS 消耗的能源更少，碳足迹更小。",
+      "text_5": "对于你与数字资产的交互方式来说，PoW 和 PoS 之间几乎没有区别。"
+    },
+    "accordion_2": {
+      "title": "什么是钱包？为什么我需要它？",
+      "text_1": "你的实体钱包可能装着现金、身份证，甚至几张老旧会员卡（比如那张只剩 $1.83 的星巴克卡）。",
+      "text_2": "你的加密钱包在区块链中扮演同样的角色。它包含一个“身份 ID”（由一长串数字和字母组成）、你的加密货币，以及你用这些货币购买的 NFT。常见的钱包服务包括 MetaMask（最受欢迎、最易使用）、Fortmatic、Coinbase、Rainbow 等。",
+      "text_3": "创建加密钱包时，你会获得一个“助记词”——一组单词，可在丢失访问权限时恢复你的资金或 NFT。",
+      "text_4": "千万不要将助记词告诉任何人。",
+      "text_4_4": "任何知道你的助记词的人都可以完全控制你的钱包，买卖或转移你的资产。",
+      "text_5": "在 GameTrade 或其他平台上进行加密货币或 NFT 交易时，你需要连接钱包才能登录。"
+    },
+    "accordion_3": {
+      "title": "GameTrade 与其他 NFT 市场有什么不同？",
+      "text_1": "当然，GameTrade 不是唯一的市场。但以下几点，可能会让你喜欢上它：",
+      "text_2": "交易与租赁：为游戏内 NFT 经济带来新可能，用户可以互相交易或租赁物品。",
+      "text_3": "多链支持：部分市场仅支持单一链，这意味着你可能错过其他链上你喜欢的 NFT。",
+      "text_4": "社交与网络：消息系统、动态、推荐计划——方便你寻找朋友和潜在合作伙伴。",
+      "text_5": "专注游戏：GTM 是一个类似 Amazon 或 eBay 的在线市场，但完全专注于游戏行业，而非像 OpenSea 或 Rarible 那样泛用。这种专注让社区更加紧密。",
+      "text_6": "社区功能：用户信誉、游戏评论、物品评价、用户创作的游戏指南与评论系统。"
+    },
+    "contactUs": {
+      "title": "没有找到你的问题答案？",
+      "description": "联系我们，我们会尽快回复你。",
+      "discord": "Discord",
+      "button": "帮助中心"
     }
+  }
 }
