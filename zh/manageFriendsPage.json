@@ -1,51 +1,51 @@
 {
-  "language": "english",
-  "i18n": "en",
+  "language": "chinese",
+  "i18n": "zh",
   "ns": "base",
   "translation": {
     "breadCrumbs": {
-      "marketplace": "Marketplace",
-      "manage": "Manage Friends"
+      "marketplace": "市场",
+      "manage": "管理好友"
     },
     "tabs": {
-      "friends": "Friends",
-      "incomingRequests": "Incoming requests",
-      "outgoingRequests": "Outgoing requests"
+      "friends": "好友",
+      "incomingRequests": "收到的请求",
+      "outgoingRequests": "发出的请求"
     },
     "header": {
-      "sendMessage": "Send message",
-      "request": "Friend request pending",
-      "add": "Add to friends",
-      "online": "online"
+      "sendMessage": "发送消息",
+      "request": "好友请求待处理",
+      "add": "添加好友",
+      "online": "在线"
     },
     "tabFriend": {
-      "headlineFriends": "Friends",
-      "online": "online",
-      "remove": "Remove",
-      "sendMessage": "Send message",
-      "removeFriends": "Do you want to remove this user from friends?",
-      "yes": "Yes",
-      "no": "No",
-      "loading": "Loading...",
-      "friend": "friend",
-      "friends": "friends"
+      "headlineFriends": "好友",
+      "online": "在线",
+      "remove": "移除",
+      "sendMessage": "发送消息",
+      "removeFriends": "确定要将此用户从好友列表中移除吗？",
+      "yes": "是",
+      "no": "否",
+      "loading": "加载中...",
+      "friend": "位好友",
+      "friends": "位好友"
     },
     "tabIncomingRequests": {
-      "noIncoming": "No incoming requests",
-      "incomingRequests": "Incoming requests",
-      "request": "request",
-      "requests": "requests",
-      "online": "online",
-      "addToFriends": "Add to friends",
-      "decline": "Decline"
+      "noIncoming": "暂无收到的请求",
+      "incomingRequests": "收到的请求",
+      "request": "请求",
+      "requests": "请求",
+      "online": "在线",
+      "addToFriends": "添加为好友",
+      "decline": "拒绝"
     },
     "tabOutgoingRequests": {
-      "noOutgoingRequests": "No outgoing requests",
-      "outgoingRequests": "Outgoing requests",
-      "request": "request",
-      "requests": "requests",
-      "online": "online",
-      "cancel": "Cancel"
+      "noOutgoingRequests": "暂无发出的请求",
+      "outgoingRequests": "发出的请求",
+      "request": "请求",
+      "requests": "请求",
+      "online": "在线",
+      "cancel": "取消"
     }
   }
 }
