@@ -1,9 +1,9 @@
 {
-    "language": "english",
-    "i18n": "en",
-    "ns": "base",
-    "translation": {
-      "typeSomethins": "Type something to send...",
-      "youHaveNoMessage": "You have no message yet"
-    }
+  "language": "chinese",
+  "i18n": "zh",
+  "ns": "base",
+  "translation": {
+    "typeSomethins": "输入内容发送...",
+    "youHaveNoMessage": "你还没有消息"
   }
+}
