@@ -1,124 +1,124 @@
 {
-    "language": "english",
-    "i18n": "en",
+    "language": "chinese_simplified",
+    "i18n": "zh",
     "ns": "base",
     "translation": {
-        "title": "Development roadmap",
-        "calendarQ3_2021": "Q3 2021",
+        "title": "开发路线图",
+        "calendarQ3_2021": "2021年第三季度",
         "contentQ3_2021": {
-            "part_1": "GameTrade concept design",
-            "part_2": "Market research",
-            "part_3": "Hiring",
-            "part_4": "Marketplace UX design",
-            "part_5": "Proof of concept technical build",
-            "part_6": "Angel investments $500 000"
+            "part_1": "GameTrade 概念设计",
+            "part_2": "市场调研",
+            "part_3": "团队招聘",
+            "part_4": "交易市场 UX 设计",
+            "part_5": "概念验证（PoC）技术开发",
+            "part_6": "天使投资 50 万美元"
         },
-        "calendarQ4_2021": "Q4 2021",
+        "calendarQ4_2021": "2021年第四季度",
         "contentQ4_2021": {
-            "part_1": "Establish company in Switzerland",
-            "part_2": "VC`s Pitch deck https://brieflink.com/v/dxhgr",
-            "part_3": "Marketplace UI design",
-            "part_4": "NFT collection concept",
-            "part_5": "Marketing strategy development",
-            "part_6": "Partnership with 3 blockchain industry leaders",
-            "part_7": "GameTrade NFT marketplace infrastructure setup",
-            "part_8": "Beta version of trade smart contract",
-            "part_9": "Support for Ethereum & Polygon"
+            "part_1": "在瑞士成立公司",
+            "part_2": "VC 路演演示文稿 https://brieflink.com/v/dxhgr",
+            "part_3": "交易市场 UI 设计",
+            "part_4": "NFT 收藏概念设计",
+            "part_5": "营销策略制定",
+            "part_6": "与三家区块链行业领先企业达成合作",
+            "part_7": "GameTrade NFT 市场基础设施搭建",
+            "part_8": "交易智能合约测试版",
+            "part_9": "支持以太坊和 Polygon"
         },
-        "calendarQ1_2022": "Q1 2022",
+        "calendarQ1_2022": "2022年第一季度",
         "contentQ1_2022": {
-            "part_1": "Discord and Twitter launch",
-            "part_2": "Trade smart contracts for Ethereum",
-            "part_3": "Trade smart contracts for Polygon",
-            "part_4": "Trade smart contracts for BSC",
-            "part_5": "User profiles",
-            "part_6": "Direct Messaging",
-            "part_7": "Various ongoing partnership agreements"
+            "part_1": "Discord 与 Twitter 官方账号上线",
+            "part_2": "以太坊交易智能合约",
+            "part_3": "Polygon 交易智能合约",
+            "part_4": "BSC 交易智能合约",
+            "part_5": "用户个人资料功能",
+            "part_6": "即时通讯功能",
+            "part_7": "持续推进多项合作协议"
         },
-        "calendarQ2_2022": "Q2 2022",
+        "calendarQ2_2022": "2022年第二季度",
         "contentQ2_2022": {
-            "part_1": "Multi-wallet support",
-            "part_2": "Advanced search and filtering",
-            "part_3": "Friends system",
-            "part_4": "Alpha test",
-            "part_5": "Games integration",
-            "part_6": "Official game pages",
-            "part_7": "GameTrade Marketplace soft launch",
-            "part_8": "Big partnerships (BGA, Polygon)"
+            "part_1": "多钱包支持",
+            "part_2": "高级搜索与筛选功能",
+            "part_3": "好友系统",
+            "part_4": "Alpha 测试",
+            "part_5": "游戏集成功能",
+            "part_6": "官方游戏页面",
+            "part_7": "GameTrade 交易市场软启动",
+            "part_8": "重大合作（BGA、Polygon）"
         },
-        "calendarQ3_2022": "Q3 2022",
+        "calendarQ3_2022": "2022年第三季度",
         "contentQ3_2022": {
-            "part_1": "Game reviews",
-            "part_2": "Recommendation system",
-            "part_3": "GameTrade tokenomics design",
-            "part_4": "Buy game currency",
-            "part_5": "List and buy game items for game currency",
-            "part_6": "Game guides: https://gametrademarket.medium.com",
-            "part_7": "Work on SEO. Achieved top-7 in Google for 'Game items marketplace'",
-            "part_8": "Added 180 Web3 games to the knowledge database",
-            "part_9": "Added 1.6m game items"
+            "part_1": "游戏测评功能",
+            "part_2": "推荐系统",
+            "part_3": "GameTrade 代币经济设计",
+            "part_4": "购买游戏货币功能",
+            "part_5": "使用游戏货币购买与上架物品",
+            "part_6": "游戏指南：https://gametrademarket.medium.com",
+            "part_7": "SEO 优化工作——在 Google 中获得“Game items marketplace”前 7 名排名",
+            "part_8": "知识库新增 180 款 Web3 游戏",
+            "part_9": "新增 160 万件游戏物品"
         },
-        "calendarQ4_2022": "Q4 2022",
+        "calendarQ4_2022": "2022年第四季度",
         "contentQ4_2022": {
-            "part_1": "Integration of game pages with Medium",
-            "part_2": "Official launch on November 8th",
-            "part_3": "Start marketing campaign",
-            "part_5": "Referral system",
-            "part_6": "Comments",
-            "part_9": "New games integration",
-            "part_10": "Work on partnerships",
-            "part_11": "New Landing Page"
+            "part_1": "游戏页面与 Medium 集成",
+            "part_2": "于 11 月 8 日正式上线",
+            "part_3": "启动营销活动",
+            "part_5": "推荐系统上线",
+            "part_6": "评论功能",
+            "part_9": "新增游戏集成",
+            "part_10": "拓展合作伙伴关系",
+            "part_11": "新版落地页"
         },
-        "calendarQ1_2023": "Q1 2023",
+        "calendarQ1_2023": "2023年第一季度",
         "contentQ1_2023": {
-            "part_1": "Development of partnership programs",
-            "part_2": "UX/UI optimization",
-            "part_3": "Launching a YouTube channel with game reviews",
-            "part_4": "Support Immutable X"
+            "part_1": "合作伙伴计划开发",
+            "part_2": "UX/UI 优化",
+            "part_3": "推出游戏测评 YouTube 频道",
+            "part_4": "支持 Immutable X"
         },
-        "calendarQ2_2023": "Q2 2023",
+        "calendarQ2_2023": "2023年第二季度",
         "contentQ2_2023": {
-            "part_1": "Launch of GTM SoundCloud as part of the partner program",
-            "part_2": "Expansion of the NFT range",
-            "part_3": "Holding AMA sessions with the partners",
-            "part_4": "Integration with RARIble"
+            "part_1": "推出 GTM SoundCloud 作为合作项目的一部分",
+            "part_2": "扩展 NFT 种类",
+            "part_3": "举办合作伙伴 AMA 交流会",
+            "part_4": "与 RARIble 集成"
         },
-        "calendarQ3_2023": "Q3 2023",
+        "calendarQ3_2023": "2023年第三季度",
         "contentQ3_2023": {
-            "part_1": "Game launchpad",
-            "part_2": "Item mint",
-            "part_3": "Start of the GTM Overlay integration project"
+            "part_1": "游戏启动平台（Launchpad）",
+            "part_2": "物品铸造功能",
+            "part_3": "启动 GTM Overlay 集成项目"
         },
-        "calendarQ4_2023": "Q4 2023 (current)",
+        "calendarQ4_2023": "2023年第四季度（当前）",
         "contentQ4_2023": {
-            "part_1": "Announcement of GTM School educational program",
-            "part_2": "Updating the game evaluation system"
+            "part_1": "公布 GTM School 教育计划",
+            "part_2": "更新游戏评价系统"
         },
-        "calendarQ1_2024": "Q1 2024",
+        "calendarQ1_2024": "2024年第一季度",
         "contentQ1_2024": {
-            "part_1": "Support Avalanche blockchain",
-            "part_2": "Pay with credit preview-preview-card (Paper wallet Integration)"
+            "part_1": "支持 Avalanche 区块链",
+            "part_2": "信用卡支付预览（Paper 钱包集成）"
         },
-        "calendarQ2_2024": "Q2 2024",
+        "calendarQ2_2024": "2024年第二季度",
         "contentQ2_2024": {
-            "part_1": "Utility NFTs by GameTrade",
-            "part_2": "NFT reward system",
-            "part_3": "Game developers dashboard",
-            "part_4": "Exclusive giveaways/events for holders"
+            "part_1": "GameTrade 功能型 NFT",
+            "part_2": "NFT 奖励系统",
+            "part_3": "游戏开发者控制台",
+            "part_4": "为持有者提供独家赠礼与活动"
         },
-        "calendarQ3_2024": "Q3 2024",
+        "calendarQ3_2024": "2024年第三季度",
         "contentQ3_2024": {
-            "part_1": "Social Groups",
-            "part_2": "Game streams"
+            "part_1": "社交群组",
+            "part_2": "游戏直播"
         },
-        "calendarLater": "Later",
+        "calendarLater": "后续计划",
         "contentLater": {
-            "part_1": "P2P trade",
-            "part_2": "Esports tournaments",
-            "part_3": "Esports integration",
-            "part_4": "Wallets and items Insurance",
-            "part_5": "Renting system",
-            "part_6": "Wish list "
+            "part_1": "P2P 交易",
+            "part_2": "电子竞技赛事",
+            "part_3": "电竞集成",
+            "part_4": "钱包与物品保险",
+            "part_5": "租赁系统",
+            "part_6": "心愿单功能"
         }
     }
 }
