@@ -1,51 +1,51 @@
 {
-  "language": "english",
-  "i18n": "en",
+  "language": "chinese",
+  "i18n": "zh",
   "ns": "base",
   "translation": {
-    "headline": "Buy and sell your game items for cryptocurrency",
-    "recentTransactions": "Recent Transactions",
-    "gameSupported": "Is my game supported?",
-    "trendingGames": "Trending games",
-    "findByGenre": "Find by genre",
-    "highestRanked": "Highest ranked",
-    "topFreeToPlay": "Top free-to-play",
-    "noNFTrequired": "No NFT required to start",
-    "findByBlockchain": "Find by blockchain",
-    "playAndEarn": "Play and earn with NFT games",
+    "headline": "使用加密货币购买和出售你的游戏物品",
+    "recentTransactions": "最新交易",
+    "gameSupported": "我的游戏受支持吗？",
+    "trendingGames": "热门游戏",
+    "findByGenre": "按类型查找",
+    "highestRanked": "最高评分",
+    "topFreeToPlay": "最佳免费游戏",
+    "noNFTrequired": "开始游戏无需 NFT",
+    "findByBlockchain": "按区块链查找",
+    "playAndEarn": "通过 NFT 游戏边玩边赚",
     "setUpYourWallet": {
-      "headline": "SET UP YOUR WALLET",
-      "description": "Link your wallet(s) in My Account"
+      "headline": "设置你的钱包",
+      "description": "在“我的账户”中链接你的钱包"
     },
     "playAnNFTgame": {
-      "headline": "PLAY AN NFT GAME",
-      "description": "Choose one of 150+ games in our catalogue and play!"
+      "headline": "玩一款 NFT 游戏",
+      "description": "从我们的目录中选择 150+ 款游戏之一并开始畅玩！"
     },
     "earnNFTitems": {
-      "headline": "EARN NFT ITEMS",
-      "description": "Earn crypto or NFTs playing (it sounds nicer than working from dawn to dusk, doesn't it?)"
+      "headline": "获取 NFT 物品",
+      "description": "通过游戏赚取加密货币或 NFT（听起来比从早忙到晚工作有趣多了，不是吗？）"
     },
     "listItemForSale": {
-      "headline": "LIST ITEM FOR SALE",
-      "description": "Sell your NFTs or crypto here, on GameTrade"
+      "headline": "上架你的物品",
+      "description": "在 GameTrade 上出售你的 NFT 或加密资产"
     },
-    "ourBlog": "Our blog",
-    "browseMore": "Browse more",
-    "gameTrade": "GameTrade Market is a marketplace for Web3 game items only.",
-    "whatDoesItMean": "What does it mean?",
-    "web3": "Web3 is the new way to store information about game items and their owners. In previous-generation (Web2) games, the information about the item ownership is stored on the game’s server. It means that if you play on a different server, all the ownership information will be inaccessible and you have to obtain all the items again. Or, if the server gets damaged, the ownership will be lost forever.",
-    "also": "Also, in Web2 games, you cannot use a 3rd party website to trade your items safely. You can use various ad boards and find potential buyers/sellers and conduct transaction at your own risk of:",
-    "beingScammed": "Being scammed",
-    "beingBlocked": "Being blocked by the game developer for RWT (real-world trading)",
-    "web3IsMuchBetter": "Web3 is much better",
-    "web3Games": "Web3 games store all the ownership information separately from the game servers. And the game developer has no power to tell you what to do with your items. It means that you can:",
-    "buyItems": "Buy items",
-    "sellItems": "Sell items",
-    "rentItems": "Rent items",
-    "borrowItems": "Borrow items",
-    "destroyItems": "Destroy items",
-    "allTheTransactions": "All the transactions are 100% safe and there is no risk of scams. And you do not need permission from the game developer, how cool is that?",
-    "weAreStanding": "We are standing on the edge of the new era of inter-game economy, where you can quickly sell loot from one game and buy loot from another game, just like real-world traders trade goods on international exchanges.",
-    "gtmIsJust": "GameTrade Market is just one of the many 3rd party websites for the new era of Web3 games."
+    "ourBlog": "我们的博客",
+    "browseMore": "查看更多",
+    "gameTrade": "GameTrade 市场专注于 Web3 游戏物品交易。",
+    "whatDoesItMean": "这意味着什么？",
+    "web3": "Web3 是存储游戏物品及其所有者信息的新方式。在上一代（Web2）游戏中，物品所有权信息存储在游戏服务器上。这意味着如果你换了服务器，所有的物品信息都无法访问，你需要重新获取。而如果服务器出现问题，所有权将永久丢失。",
+    "also": "此外，在 Web2 游戏中，你无法通过第三方网站安全地交易物品。你只能使用广告平台寻找买家或卖家，并自行承担以下风险：",
+    "beingScammed": "被骗",
+    "beingBlocked": "因现实交易（RWT）被游戏开发者封禁",
+    "web3IsMuchBetter": "Web3 的体验更好",
+    "web3Games": "Web3 游戏将所有权信息与游戏服务器分离，开发者无法干预你的物品处理方式。这意味着你可以：",
+    "buyItems": "购买物品",
+    "sellItems": "出售物品",
+    "rentItems": "租赁物品",
+    "borrowItems": "借用物品",
+    "destroyItems": "销毁物品",
+    "allTheTransactions": "所有交易均由区块链保障，100% 安全，无诈骗风险。你也无需获得游戏开发者的许可，是不是很酷？",
+    "weAreStanding": "我们正站在全新游戏经济时代的边缘——一个你可以像现实世界的交易者一样，在不同游戏之间快速出售或购买战利品的时代。",
+    "gtmIsJust": "GameTrade 市场是众多 Web3 游戏新时代第三方平台之一。"
   }
 }
