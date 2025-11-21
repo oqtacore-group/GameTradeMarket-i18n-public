@@ -1,0 +1,24 @@
+{
+  "language": "chinese_simplified",
+  "i18n": "cn",
+  "ns": "base",
+  "translation": {
+    "marketplace": "交易市场",
+    "myProfile": "我的资料",
+    "userProfile": "用户资料",
+    "game": "游戏",
+    "friends": "好友",
+    "noFriends": "暂无好友",
+    "tabs": {
+      "noItems": "暂无物品",
+      "forSale": "出售中",
+      "ownedItems": "已拥有物品"
+    },
+    "header": {
+      "sendMessage": "发送消息",
+      "request": "好友请求待确认",
+      "add": "添加为好友",
+      "online": "在线"
+    }
+  }
+}

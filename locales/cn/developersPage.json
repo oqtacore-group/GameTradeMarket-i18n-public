@@ -1,0 +1,46 @@
+{
+  "language": "chinese",
+  "i18n": "cn",
+  "ns": "base",
+  "translation": {
+    "headTitle_1": "写信给我们",
+    "headText_1": "有兴趣通过我们的平台出售你的游戏物品、使用白标服务，或与 GameTrade 一起为你的社区举办各种活动吗？请联系我们！",
+    "button": "联系我们",
+    "headTitle_2": "更多面向开发者的内容",
+    "headText_2": "我们的目标是成为虚拟游戏内 NFT 的最佳交易市场。我们致力于支持所有现有的 NFT 游戏，并希望与你——开发者——合作，让你能在我们的市场上拥有专属的官方游戏页面，并为玩家提供专属的促销、折扣和活动！",
+    "feature": "功能",
+    "features": {
+      "feature_1": {
+        "title": "官方游戏页面",
+        "description": "官方游戏页面是你在我们平台上非常实用的工具。你可以根据自己游戏的美术风格进行个性化定制，页面还将获得认证标识，让用户明确知道这是官方页面。"
+      },
+      "feature_2": {
+        "title": "游戏指南",
+        "description": "GameTrade 团队将为你的游戏提供高质量的入门指南，让所有玩家都能轻松上手。"
+      },
+      "feature_3": {
+        "title": "为你的社区举办特别活动",
+        "description": "GameTrade 定期为合作伙伴的游戏社区举办赠品活动和其他竞赛。"
+      },
+      "feature_4": {
+        "title": "吸引新玩家",
+        "description": "GameTrade 社区非常活跃，始终在寻找值得体验的新 Web3 游戏！"
+      },
+      "feature_5": {
+        "title": "游戏代币",
+        "description": "GameTrade 社区活跃度极高，持续关注新的 Web3 游戏生态！"
+      },
+      "feature_6": {
+        "title": "定期 AMA 和线上活动",
+        "description": "GameTrade 为合作伙伴游戏定期举办 AMA 和线上活动，帮助你持续吸引新用户。"
+      },
+      "feature_7": {
+        "title": "匿名统计数据",
+        "description": "我们致力于成为虚拟游戏内 NFT 的顶级市场，将汇集大量 NFT 游戏市场统计数据，你可以从我们这里购买这些数据。\n",
+        "title_2": "统计数据示例：",
+        "points": "“按国家划分的用户数量”、“哪些物品经常一起出售”、“活跃用户的时间分布”、“各国用户平均消费额”",
+        "description_2": "你还可以根据需要向我们请求特定统计数据。"
+      }
+    }
+  }
+}

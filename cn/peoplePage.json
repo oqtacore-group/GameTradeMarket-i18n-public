@@ -1,0 +1,17 @@
+{
+  "language": "chinese",
+  "i18n": "cn",
+  "ns": "base",
+  "translation": {
+    "people": "用户",
+    "users": "位用户",
+    "filterPeople": "筛选用户",
+    "online": "在线",
+    "item": "物品",
+    "noItems": "暂无物品",
+    "requestSent": "请求已发送",
+    "cancelRequest": "取消请求",
+    "sendMessage": "发送消息",
+    "addToFriends": "添加好友"
+  }
+}
