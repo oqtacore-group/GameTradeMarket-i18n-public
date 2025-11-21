@@ -1,0 +1,77 @@
+{
+  "language": "chinese",
+  "i18n": "cn",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "games": "游戏",
+      "noName": "无名称"
+    },
+    "admitted": "已开放交易",
+    "about": "关于此游戏",
+    "description": {
+      "publisher": "发行商",
+      "developer": "开发者",
+      "releaseDate": "发布日期",
+      "rating": "评分",
+      "genres": "类型",
+      "itemsOnSale": "在售物品数量",
+      "floorPrice": "最低价",
+      "tx7d": "7日交易量",
+      "tx30d": "30日交易量",
+      "uaw7d": "7日活跃钱包",
+      "uaw30d": "30日活跃钱包",
+      "play": "开始游戏",
+      "shopItems": "查看物品",
+      "contracts": "合约"
+    },
+    "buying": {
+      "description": "该游戏拥有自己的游戏货币，名为",
+      "buyText": "若要购买多个游戏物品，你需要使用以下货币支付：",
+      "buy": "购买"
+    },
+    "blog": {
+      "title": "开发者博客",
+      "subTitle": "最新活动与公告",
+      "view": "查看全部"
+    },
+    "carousel": {
+      "title": "该游戏的物品",
+      "subTitle": "最近添加至 GameTrade 的物品",
+      "view": "查看全部"
+    },
+    "reviews": {
+      "title": "最有帮助的评论",
+      "subTitle": "过去 30 天内",
+      "noReviews": "暂无评论",
+      "write": "撰写评论",
+      "addReview": "以以下身份添加评论：",
+      "post": "发布",
+      "rateGame": "请为该游戏评分",
+      "choiceRating": "请选择评分",
+      "rateNumber": {
+        "highlyNotRecommended": "1 – 强烈不推荐",
+        "notRecommended": "2 – 不推荐",
+        "neutral": "3 – 一般",
+        "recommended": "4 – 推荐",
+        "highlyRecommended": "5 – 强烈推荐"
+      },
+      "delete": "评论已成功删除",
+      "wantDelete": "确定要删除此评论吗？",
+      "yes": "是",
+      "no": "否",
+      "review": "条评论",
+      "reviews": "评论",
+      "posted": "发布时间：",
+      "rateText": {
+        "highlyNotRecommended": "强烈不推荐",
+        "notRecommended": "不推荐",
+        "neutral": "一般",
+        "recommended": "推荐",
+        "highlyRecommended": "强烈推荐"
+      },
+      "save": "保存",
+      "cancel": "取消"
+    }
+  }
+}

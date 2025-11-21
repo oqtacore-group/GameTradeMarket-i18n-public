@@ -1,9 +1,0 @@
-{
-  "language": "chinese",
-  "i18n": "zh",
-  "ns": "base",
-  "translation": {
-    "typeSomethins": "输入内容发送...",
-    "youHaveNoMessage": "你还没有消息"
-  }
-}

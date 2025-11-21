@@ -1,0 +1,11 @@
+{
+  "language": "chinese",
+  "i18n": "cn",
+  "ns": "base",
+  "translation": {
+    "marketplace": "市场",
+    "friendsOfUser": "用户的好友",
+    "friends": "好友",
+    "online": "在线"
+  }
+}

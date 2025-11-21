@@ -1,0 +1,158 @@
+{
+  "language": "chinese",
+  "i18n": "cn",
+  "ns": "base",
+  "translation": {
+    "head": {
+      "description": "发现、购买、出售和交易游戏内 NFT。GameTrade 是一个专门且便捷的市场，用于交易虚拟游戏内的 NFT。"
+    },
+    "menu": {
+      "signIn": "登录",
+      "signUp": "注册",
+      "logOut": "退出",
+      "marketplace": "市场",
+      "games": "游戏",
+      "eventCalendar": "活动日历",
+      "roadmap": "路线图",
+      "people": "人物",
+      "howItWorks": "如何运作",
+      "changelog": "更新日志",
+      "friends": "朋友",
+      "profile": "个人资料",
+      "account": "账户",
+      "about": "关于",
+      "chat": "聊天",
+      "team": "团队",
+      "help": "帮助"
+    },
+    "subscribe": {
+      "placeholder": "你的电子邮件地址",
+      "button": "订阅"
+    },
+    "footer": {
+      "joinTheCommunity": "加入社区",
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款",
+      "description": "加入我们的邮件列表，随时了解我们最新的功能发布、NFT 空投、以及如何在 GameTrade 上交易的技巧和建议。"
+    },
+    "search": {
+      "search": "搜索",
+      "searchGame": "搜索游戏",
+      "notFound": "没有找到该游戏"
+    },
+    "modalWindow": {
+      "logIn": {
+        "headline": "登录 GameTrade",
+        "google": "用 Google 登录",
+        "or": "或",
+        "mail": "电子邮件",
+        "password": "密码",
+        "remember": "记住我",
+        "forgot": "忘记密码",
+        "errorPassword": "无效的登录或密码",
+        "haveAccount": "没有账号？",
+        "register": "注册",
+        "logIn": "登录"
+      },
+      "signUp": {
+        "headline": "注册 GameTrade",
+        "sentCode": {
+          "part_1": "邮件已发送至 ",
+          "part_2": "，包含验证码以验证你的账户。你必须验证你的账户才能登录"
+        },
+        "continue": "继续",
+        "google": "用 Google 注册",
+        "or": "或",
+        "mail": "电子邮件",
+        "password": "密码",
+        "accept": "接受",
+        "agreement": "协议",
+        "code": "邀请码",
+        "signUp": "注册",
+        "member": "已经是会员？",
+        "logIn": "登录"
+      },
+      "verify": {
+        "accountHasBeen": "你的账户已",
+        "successfully": "成功验证",
+        "error": "验证错误。",
+        "done": "完成",
+        "pleaseTryAgain": "请再试一次",
+        "tryAgain": "再试一次",
+        "signUp": "注册 GameTrade",
+        "enterCode": "请输入我们通过邮件发送的验证码",
+        "errorCodeMessage": "验证码不能少于 6 位或超过 6 位",
+        "invalid": "无效的电子邮件或验证码",
+        "verify": "验证",
+        "completed": "完成。验证码已输入"
+      },
+      "reset": {
+        "thePassword": "密码",
+        "beenReset": "已重置",
+        "nowUse": "你现在可以使用新密码登录你的账户",
+        "done": "完成",
+        "yourPassword": "你的密码",
+        "notBeenReset": "未重置",
+        "errorTryAgain": "更改密码时发生错误，请再试一次",
+        "tryAgain": "再试一次",
+        "enterCode": "请输入我们通过邮件发送的验证码",
+        "eightCharacters": "你的密码必须至少八个字符且",
+        "matchMail": "不能包含空格或与电子邮件地址匹配",
+        "newPassword": "新密码",
+        "confirmPassword": "确认新密码",
+        "passwordMismatch": "密码不匹配",
+        "codeCannot": "验证码不能少于 6 位或超过 6 位",
+        "firstPassword": "第一个密码字段",
+        "secondPassword": "第二个密码字段",
+        "restorePassword": "恢复我的密码"
+      },
+      "restore": {
+        "headline": "恢复密码",
+        "description": "请输入你用于创建 GameTrade 账户的电子邮件地址，我们将发送一个链接给你，帮助你重置密码。",
+        "mail": "电子邮件",
+        "continue": "继续",
+        "receive": "没有收到链接？"
+      }
+    },
+    "metamaskNotInstalled": "未安装 Metamask 应用程序。要购买或出售物品，请先在你的设备上安装 Metamask",
+    "metamaskConnect": "Metamask 自动连接。如果 Metamask 没有自动打开，请手动打开它",
+    "please": "请",
+    "loginOrReg": "登录或注册",
+    "workWithToken": "使用此令牌",
+    "networkChange": "网络更改。如果 Metamask 没有自动打开，请手动打开它",
+    "youHave": "你已取消自动网络更改。请自行切换到网络",
+    "networkId": "网络 ID：",
+    "itemIsNotApproved": "物品未被批准",
+    "approvedTheToken": "你已成功在平台上批准该代币。",
+    "itemIsNotApproved2": "物品未被批准。设置价格之前，你需要先批准你的代币",
+    "bidding": "竞标成功。如果数据未更新，请按",
+    "refresh": "刷新",
+    "purchase": "购买成功！如果所有者和价格未自动更新，请使用",
+    "button": "按钮 - 这将帮助同步数据",
+    "changeWallet": "如果你想设置价格，请将 Metamask 中的活跃钱包更改为拥有该物品的钱包",
+    "addWallet": "在页面上添加你的第一个钱包",
+    "myAccount": "'我的账户'",
+    "afterAddingWallet": ". 添加钱包后，刷新此页面",
+    "thisWallet": "此钱包未连接",
+    "addNewWallet": "在",
+    "page": "页面上添加你的新钱包。添加钱包后，刷新此页面",
+    "sorry": "抱歉，我们不知道发生了什么。请告知我们错误的具体情况",
+    "install": "请安装 Metamask",
+    "dontSupport": "抱歉，我们暂不支持该网络或代币",
+    "justPurchase": "该代币刚刚被购买",
+    "justPurchase2": "抱歉。该代币刚刚被购买",
+    "errors": {
+      "passwordFieldIsRequired": "密码字段为必填项",
+      "passwordCannotBeLess": "密码不能少于 8 个字符",
+      "passwordCannotExceed": "密码不能超过 99 个字符",
+      "PasswordWillNotHaveSpaces": "密码不能包含空格",
+      "emailFieldIsRequired": "电子邮件字段为必填项",
+      "invalidEmail": "无效的电子邮件",
+      "codeCannotBeLess": "验证码不能少于 6 个字符",
+      "codeCannotExceed": "验证码不能超过 6 个字符",
+      "codeCannotBeLessThan8": "验证码不能少于 8 个字符",
+      "codeCannotExceed8": "验证码不能超过 8 个字符",
+      "pleaseAccept": "请在继续之前接受协议！"
+    }
+  }
+}

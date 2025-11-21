@@ -1,0 +1,49 @@
+{
+  "language": "chinese_simplified",
+  "i18n": "cn",
+  "ns": "base",
+  "translation": {
+    "breadCrumbs": {
+      "marketplace": "交易市场",
+      "noName": "无名称"
+    },
+    "buttons": {
+      "setThePrice": "设置价格",
+      "approveToken": "授权代币",
+      "buy": "购买"
+    },
+    "description": {
+      "refreshData": "刷新数据",
+      "noInformation": "暂无信息",
+      "ownedBy": "持有者：",
+      "description": "描述"
+    },
+    "setThePrice": {
+      "pleaseSelect": "请选择您希望出售所用的币种",
+      "setThePrice": "设置价格：",
+      "sell": "出售",
+      "onlySixDecimal": "仅限 6 位小数"
+    },
+    "approve": {
+      "title": {
+        "needHave": {
+          "part_1": "在购买代币之前，您需要允许 GameTrade 的交易智能合约\n                    从您的钱包中扣除",
+          "part_2": "相应金额。"
+        },
+        "youHave": "您已授权足够额度供 GameTrade 的交易智能合约使用，\n                    现在可以直接购买该代币。"
+      },
+      "then": "然后",
+      "buy": "购买",
+      "txCompleted": {
+        "part_1": "交易已完成。",
+        "part_2": "该代币现在属于您！"
+      }
+    },
+    "levels": "等级",
+    "properties": "属性",
+    "moreCollection": "此系列的更多内容",
+    "marketplace": {
+      "buy": "购买"
+    }
+  }
+}
